@@ -1,22 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Matt</title>
-    <link>https://example.com/blog/</link>
-    <description>Recent content in Blog on Matt</description>
+    <title>Blog on Matteo Fumagalli</title>
+    <link>https://fumagalli-mf.netlify.com/blog/</link>
+    <description>Recent content in Blog on Matteo Fumagalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fumagalli-mf.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NW-A35 after 3 years</title>
-      <link>https://example.com/blog/nw-a35-after-3-years/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <title>New site!</title>
+      <link>https://fumagalli-mf.netlify.com/blog/new-site/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/nw-a35-after-3-years/</guid>
+      <guid>https://fumagalli-mf.netlify.com/blog/new-site/</guid>
+      <description>Here i am, new beautifull clean static site I needed a new site, both for my works and for my personal world and a static one was the best option i can think of.
+Time will tell me. Benvenuti!</description>
+    </item>
+    
+    <item>
+      <title>Blog testing</title>
+      <link>https://fumagalli-mf.netlify.com/blog/blog-testing/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fumagalli-mf.netlify.com/blog/blog-testing/</guid>
       <description>Text This is some text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium at ipsum eu pharetra. Proin ac ante et leo ultrices bibendum. Vivamus id ipsum fermentum, aliquam nunc mollis, tempus sapien. Praesent scelerisque cursus eros vitae pretium. Etiam sit amet ligula in leo euismod malesuada. Proin eleifend pulvinar ipsum, eu lobortis ante pharetra eu. Vivamus sem elit, venenatis eget ornare nec, ullamcorper non tellus. Duis quis massa finibus, euismod erat quis, fermentum nunc.</description>
     </item>
     
