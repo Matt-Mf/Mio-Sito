@@ -162,7 +162,8 @@ div.header .container .logo {
   {{ else }}
   max-width: 100px;
   {{ end }}
-  margin-left: -2em;
+  margin-right: 20px;
+  
 }
 div.header .name {
   padding-top: 20px;
@@ -176,7 +177,7 @@ div.header .name {
       {{ errorf "This titlestyle is not a valid text-transform css parameter: %s" .Site.Params.titlestyle }}
       {{ end }}
   {{ else }}
-  text-transform: uppercase;
+
   {{ end }}
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -231,6 +232,7 @@ div.footer .container {
   flex-direction: column-reverse;
   width: 100%;
   text-align: center;
+  margin-top: 15px;
 }
 div.footer .container a {
   font-size: 14px;

@@ -1,8 +1,8 @@
 ---
 author: "Me"
 date: 2019-12-17
-title: Some fundamental unordered Wordpress plugins 
-best: true
+title: Some fundamental selected Wordpress plugins 
+best: false
 ---
 Usually, as a single freelancer, i have to deal with costumers that require a dynamic  medium-to complex website with a simple CMS. 
 Atop that, all the website need near zero maintenance and the goal is to host it on a managed solution that i can forget off without the need to fix everything with every unstable update.
@@ -21,7 +21,7 @@ ___
 
 ## Akismet
 
-Antispam and well know plugin that comes preinstalled.
+Antispam well know plugin that comes preinstalled with Wordpress.
 	
 **Needs api-key.**
 
@@ -29,13 +29,13 @@ ___
 
 ## WP fastest cache - By emre vona 
 
-Really effective caching plugin that offers real seep-up improvments also with a very basic config.
+Really effective caching plugin that offers real seep-up improvements also with a very basic config.
 
 ___
 
 ## Limit Login Attempts Reloaded By WPChef
 
-For limiting login attempts with all the benefits that come.
+For limiting login attempts with all the benefits that come. Jetpack and Wordfence offer the same functionality but bundled.
 
 ___
 
@@ -45,12 +45,10 @@ If it's really necessary. A good comprensive security tool.
 
 ___
 
-## Imagify
+## Compress JPEG & PNG images - By TinyPNG
 
 With the ability to optimize the delivery of all the images. Very handy with large pictures based websites. (Real estate ecc.)
 	
-**Needs api-key.**
-
 ___
 
 ## Jetpack
