@@ -25,7 +25,7 @@ Con una qualità sonora invidiabile e un look mirato alla sostanza, il Walkman N
 
 ![image](/img/walkman1.jpg)
 
-È interessante notare che anche se al passo con i tempi rispettivamente all'hardware e agli assemblaggi, il software montato e più unico che raro. Più simile ad un dispositivo embedded musicale che ad un gadget di dubbio gusto, il sistema operativo personalizzato da Sony (probabilmente un firmware basato su Linux, le fonti sono scarse...) restituisce all'utente un ambiente confortevole e del tutto intuitivo.
+È interessante notare che anche se al passo con i tempi rispettivamente all'hardware e agli assemblaggi, il software montato è più unico che raro. Più simile ad un dispositivo embedded musicale che ad un gadget di dubbio gusto, il sistema operativo personalizzato da Sony (probabilmente un firmware basato su Linux, le fonti sono scarse...) restituisce all'utente un ambiente confortevole e del tutto intuitivo.
 
 Sebbene altre due ulteriori versioni (NW-A40/NW-A50) si siano susseguite negli anni sempre sul filone della serie NW-A portando rifiniture e assemblaggi più pregiati, il focus non è mai cambiato e oggigiorno posso dire con assoluta certezza che i dispositivi appartenenti a questa serie siano gli ultimi eredi della vera definizione Walkman.
 

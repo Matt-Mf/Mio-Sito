@@ -6,6 +6,8 @@ Undergraduate student at UniMI - Network and System security.
 
 High school diploma in Information Technology - Telecommunication Specialization.
 
+Socio **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazione, Informatica e Telecomunicazioni.
+
 In my free time i love modify everything that has a PCB, admire old classic cars and ride my mtb in the wild.
 Optimize everything is my motto.
 
