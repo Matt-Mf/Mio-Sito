@@ -64,3 +64,13 @@ Simple and effective SEO management for the majority of the situations.
 ___
 
 
+___
+
+## WPvivid Backup - By WPvivid Team
+
+Migrate a copy of WP site to a new host (a new domain),schedule backups,send backups to leading remote storage. All in one backup&migration plugin.
+
+___
+
+
+
