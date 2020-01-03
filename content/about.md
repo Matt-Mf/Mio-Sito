@@ -4,6 +4,8 @@ title = "About"
 
 Undergraduate student at UniMI - Network and System security.
 
+Now working as a freelance IT consultant.
+
 High school diploma in Information Technology - Telecommunication Specialization.
 
 MEMBER **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazione, Informatica e Telecomunicazioni.
