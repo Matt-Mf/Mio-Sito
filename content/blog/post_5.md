@@ -1,15 +1,17 @@
 ---
 author: "Me"
-date: 2020-01-25
+date: 2020-01-23
 title: USB-Storage compatto ed economico per la sconfitta delle chiavette
 best: true
 ---
 
 In cerca di nuova memoria flash portatile da utilizzare per piccoli travasi o come chiavetta da installazione di SO, un'idea geniale (eeeh esagerato!) mi è balzata in mente.
-Con il mercato invaso da chiavette troppo poco capienti per essere utili, e da chiavette troppo capienti, ma costose e mal progettate in termini di dissipazione, la mia scelta è ricaduta sulle unità M2 Sata.
-Spesso infatti ciò di qui si lamentano i possessori di chiavette ad alta capienza e "slim" sono le elevate temperature che il supporto raggiunge e l'utilizzo usa e getta che se ne fa dopo l'usura della memoria flash.
+Con il mercato invaso da chiavette troppo poco capienti per essere utili, e da chiavette troppo capienti, ma costose e mal progettate in termini di prestazioni e dissipazione del calore, la mia scelta è ricaduta sulle unità M2 Sata.
+Spesso infatti ciò di cui si lamentano i possessori di chiavette ad alta capienza e "slim" sono le elevate temperature che il supporto raggiunge e l'utilizzo usa e getta che se ne fa dopo l'usura della memoria flash.
 
 Disponibile a poco prezzo, le unità SATA di basso livello stanno pian piano venendo rimpiazzate dalle più performanti PCIe NVMe. Esse ci vengono in contro come soluzione intermedie e con buone prestazioni.
+
+Niente ci vieta di utilizzare supporti PCIe, ma i costi potrebbero aumentare, come le prestazioni, ma solo fino ai limiti dello standard dell'interfaccia utilizzata (3.0,3.1 ecc.).
 
 ![image](/img/ssd1.jpg)
 
