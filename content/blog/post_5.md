@@ -7,7 +7,7 @@ best: true
 
 In cerca di nuova memoria flash portatile da utilizzare per piccoli travasi o come chiavetta da installazione di SO, un'idea geniale (eeeh esagerato!) mi è balzata in mente.
 Con il mercato invaso da chiavette troppo poco capienti per essere utili, e da chiavette troppo capienti, ma costose e mal progettate in termini di prestazioni e dissipazione del calore, la mia scelta è ricaduta sulle unità M2 Sata.
-Spesso infatti ciò di cui si lamentano i possessori di chiavette ad alta capienza e "slim" sono le elevate temperature che il supporto raggiunge e l'utilizzo usa e getta che se ne fa dopo l'usura della memoria flash.
+Spesso infatti ciò di cui si lamentano i possessori di chiavette ad alta capienza e "slim" sono le elevate temperature che il supporto raggiunge sotto stress e l'utilizzo usa e getta che se ne fa dopo l'usura della memoria flash.
 
 Disponibile a poco prezzo, le unità SATA di basso livello stanno pian piano venendo rimpiazzate dalle più performanti PCIe NVMe. Esse ci vengono in contro come soluzione intermedie e con buone prestazioni.
 
@@ -33,7 +33,7 @@ Utilizzando dei piccoli contenitori-interfaccia è possibile adottare questi com
 
 **Totale = 44€**
 
-#Chiavette USB Prezzi a confronto
+## Chiavette USB Prezzi a confronto
 
 - Sandisk Ultra Flair 3.0 256 GB: Circa 45€
 - SanDisk Ultra Fit 3.1 256 GB: Circa 43€ ma l'unità scalda parecchio.
