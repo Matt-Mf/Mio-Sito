@@ -1,7 +1,7 @@
 ---
 author: "Me"
-date: 2019-12-22
-title: USB-Storage compratto ed economico e la sconfitta delle chiavette
+date: 2020-01-25
+title: USB-Storage compatto ed economico per la sconfitta delle chiavette
 best: true
 ---
 
@@ -17,17 +17,17 @@ Utilizzando dei piccoli contenitori-interfaccia è possibile adottare questi com
  
 ![image](/img/ssd2.jpg)
 
-In Questo caso il mio setup consiste: 
+## In Questo caso il mio setup consiste: 
 
 - Kingston SSD A400 M.2 240 GB fino a 500MB/s in lettura e 350MB/s in scrittura.
 - Aplic Custodia SSD USB 3.0
 
 ![image](/img/ssd3.jpg)
 
-##Costi
+## Costi
 
-SSD M2 240 GB = 32€
-Custodia-Interfaccia = 12€
+- SSD M2 240 GB = 32€
+- Custodia-Interfaccia = 12€
 
 **Totale = 44€**
 

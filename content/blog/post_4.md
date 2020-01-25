@@ -1,6 +1,6 @@
 ---
 author: "Me"
-date: 2019-12-22
+date: 2020-01-25
 title: OpenVPN Android Bug Installa-Certificato 
 best: false
 ---
@@ -15,29 +15,23 @@ Il tunnel VPN viene comunque creato e la connessione viene instaurata e mantenut
 
 Rilevato il baco su Android OREO e Oxygen 5.1.8. Su versioni deprecate di Android come la 5.1 sembrerebbe non presentarsi.
 
-##Come eliminare il noiosissimo baco che ad ogni avvio si ripresenta?
+## Come eliminare il noiosissimo baco che ad ogni avvio si ripresenta?
 
 SOLUZIONE: Inserire all'interno del profilo .ovpn il seguente codice 
 
 ```
-
 setenv CLIENT_CERT 0 
-
 ```
 
-##Nota
+## Nota
 
 Sulla stato delle segnalazioni e risoluzione del baco, un paio di discussioni sono già state aperte sul forum ufficiale OpenVPN, ma ancora niente risoluzione. 
 Non escludo che potrebbero esserne già al corrente.
 
-
-
-
-
 Discussione che ha ispirato questo piccolo promemoria:
 
 ```
-https://forums.openvpn.net/viewtopic.php?t=26034
+forums.openvpn.net/viewtopic.php?t=26034
 ```
  
 
