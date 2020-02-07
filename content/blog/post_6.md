@@ -1,6 +1,6 @@
 ---
 author: "Me"
-date: 2020-02-7
+date: 2020-02-07
 title: Windows 10 LTSC Optimize - My script
 best: false
 ---
