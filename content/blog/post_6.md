@@ -4,7 +4,7 @@ date: 2020-02-07
 title: Windows 10 LTSC Optimize - My forked script
 best: false
 ---
-## Da Wikipedia per capire di che parliamo
+## Da Wikipedia per capire di che parliamo:
 
 Enterprise LTSC (Long-Term Servicing Channel) è una versione di supporto a lungo termine di Windows 10 Enterprise rilasciata ogni 2 o 3 anni. 
 Ogni versione è supportata con aggiornamenti di sicurezza per 10 anni dopo il rilascio e non riceve intenzionalmente aggiornamenti di funzionalità. 
@@ -18,7 +18,11 @@ Dopo esserne venuto a conoscenza ed aver cucinato ad-hoc l'immagine iso attraver
 Perchè non rendere LTSC aperta al pubblico consumer sottoforma di licenza acquistabile? Mistero. I professionisti ne sarebbero davvero felici. Eppure perseverano su di una strada secondo me sbagliata. Quello che viene a meno sono la stabilità e la sicurezza a scapito di nuove funzionalità e sincronizzazioni su cloud ridondanti, perchè oggi è "la moda".
 Per non parlare del beta testing a cui sono sottoposti tutti gli utenti (telemetria full o basic non disattivabile dai più).
 
-Ecco un'accesa e interessante discussione con un dipendente microsoft sul loro blog; quando perchè e come (non) utilizzare LTSC: https://techcommunity.microsoft.com/t5/windows-it-pro-blog/ltsc-what-is-it-and-when-should-it-be-used/ba-p/293181
+Ecco un'accesa e interessante discussione con un dipendente microsoft sul loro blog; quando perchè e come (non) utilizzare LTSC: 
+
+```
+https://techcommunity.microsoft.com/t5/windows-it-pro-blog/ltsc-what-is-it-and-when-should-it-be-used/ba-p/293181
+```
 
 Una cosa è certa, con qualche piccolo ritocco lo ritengo il mio sistema operativo per desktop definitivo e preferito.
 
