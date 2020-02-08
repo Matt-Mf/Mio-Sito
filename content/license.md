@@ -2,7 +2,7 @@
 title= "License"
 +++
 
-Theme based on Cocoa Enhanced theme by Michael Noronha and Nishanth Shanmugham, modified by me. Built with HUGO static site generator.
+Theme based on Cocoa Enhanced theme by Michael Noronha and Nishanth Shanmugham, modified by me. Built with HUGO static site generator and hosted on Netlify.
 
 
 > THE SOFTWARE AND INFORMATION HERE, ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
