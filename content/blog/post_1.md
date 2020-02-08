@@ -5,9 +5,9 @@ title: New site!
 best: false
 ---
 
-## Here i am, new beautifull clean static site
+## Here i am, my new beautifull Clean&Safe static website
 
-I needed a new site, both for my works and for my personal world and a static one was the best option i can think of. 
+I needed a new site, both for my works and for my personal world and a static one was the best option i can think of nowdays. 
 
 Time will tell me. Benvenuti!
 

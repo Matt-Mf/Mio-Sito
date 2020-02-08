@@ -4,7 +4,7 @@ date: 2019-12-17
 title: Some fundamental selected Wordpress plugins 
 best: false
 ---
-Usually, as a single freelancer, i have to deal with costumers that require a dynamic  medium-to complex website with a simple CMS. 
+Usually, as a freelancer, i have to deal with costumers that require a dynamic  medium-to complex website with a simple CMS. 
 Atop that, all the website need near zero maintenance and the goal is to host it on a managed solution that i can forget off without the need to fix everything with every unstable update.
 
 Here comes Wordpress that is the de-facto standard CMS for this type of situations, and its magical world of plugins.
