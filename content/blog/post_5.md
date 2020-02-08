@@ -49,9 +49,12 @@ Utilizzando questi piccoli contenitori-interfaccia è possibile adottare questi 
 
 ![image](/img/ssd4.jpg)
 
-Dopo un veloce confronto online fra i vari datasheet, ecco che i nostri 200/300 MB/s in lettura ma soprattutto in scrittura ce li siamo guadagnati. 
+Dopo un veloce confronto online fra i vari datasheet, ecco che i nostri 200/300 MB/s in lettura, ma soprattutto in scrittura ce li siamo guadagnati. 
+
 Tutto allo stesso prezzo, se non inferiore in alcuni casi. 
-**Direi che conviene e l'intuizione era giusta. Si guadagna sul versante prestazionale, ma anche per quanto riguarda il riutilizzo dei supporti e il meno costo per memoria.**
+
+**Direi che conviene e l'intuizione era giusta. Si guadagna sul versante prestazionale, ma anche per quanto riguarda il riutilizzo dei supporti e il minor prezzo a parità di memoria.**
+
 **La possibilità di ottenere supporti portatili da oltre 1TB con ottime prestazioni non è da sottovalutare.**
 
 L'unica nota negativa riguarda un lieve aumento degli ingrombri, anche a causa del cavo usb esterno che però si presenta una vera e propria comodità in alcune situazioni dove la porta è difficilmente raggiungibile.
