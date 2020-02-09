@@ -4,7 +4,6 @@ date: 2020-02-07
 title: Windows 10 LTSC Optimize - My forked script
 best: false
 ---
-## Da Wikipedia per capire di che parliamo:
 
 Enterprise LTSC (Long-Term Servicing Channel) è una versione di supporto a lungo termine di Windows 10 Enterprise rilasciata ogni 2 o 3 anni. 
 
