@@ -5,9 +5,9 @@ title: USB-Storage compatto ed economico - Esperimento con M2
 best: false
 ---
 
-In cerca di nuova memoria flash portabile da utilizzare per travasi o come chiave per installazione di SO, un'idea geniale (eeeh esagerato!) mi è balzata in mente: Potrei ottenere prestazioni e affidabilità doppie allo stesso prezzo.
+In cerca di nuova memoria flash portabile da utilizzare per travasi o come chiave per installazione di SO, un'idea geniale (eeeh, esagerato mi direte!) mi è balzata in mente: Potrei ottenere prestazioni e affidabilità migliori, allo stesso prezzo se non più basso.
 
-Con il mercato invaso da chiavette troppo poco capienti per essere utili ai fini tecnici, e da chiavette troppo capienti, ma costose e mal progettate in termini di prestazioni e dissipazione del calore, la mia scelta è ricaduta sulle unità M2 Sata e enclosure vari.
+Con il mercato invaso da chiavette USB troppo poco capienti per essere utili ai loro scopi, e da chiavette troppo capienti, ma costose e mal progettate in termini di prestazioni e dissipazione del calore, la mia scelta è ricaduta sulle unità M2 Sata e enclosure vari.
 Spesso infatti ciò di cui si lamentano i possessori di chiavette ad alta capienza e "slim" sono le elevate temperature che il supporto raggiunge sotto stress, particolarmente in scrittura, oltre l'usura sostenuta dalla memoria flash. Insomma un dispositivo quantomeno usa e getta.
 
 Disponibili a poco prezzo, le unità SATA M2 stanno pian piano venendo rimpiazzate dalle più performanti PCIe NVMe. Esse ci vengono in contro come soluzione intermedie e con buone prestazioni in quei casi dove le velocità in lettura e scrittura non sono tutto, dove anche il portafogli vuole la sua parte.
@@ -16,7 +16,7 @@ Niente ci vieta di utilizzare supporti PCIe, ma i costi aumentano come però le 
 
 ![image](/img/ssd1.jpg)
 
-Utilizzando questi piccoli contenitori-interfaccia è possibile adottare questi componenti come flash-storage portatile a discapito delle più compatte, ma più costose e meno efficienti Chiavette USB.
+Utilizzando questi piccoli contenitori-interfaccia è possibile adottare questi componenti come flash-storage portatile a discapito delle più compatte, ma più costose in termini di GB e meno efficienti Chiavette USB.
  
 ![image](/img/ssd2.jpg)
 
@@ -49,15 +49,15 @@ Utilizzando questi piccoli contenitori-interfaccia è possibile adottare questi 
 
 ![image](/img/ssd4.jpg)
 
-Dopo un veloce confronto online fra i vari datasheet, ecco che i nostri 200/300 MB/s in lettura, ma soprattutto in scrittura ce li siamo guadagnati. 
+Dopo un veloce confronto online fra i vari datasheet, ecco che i nostri 200/300 MB/s in lettura, ma soprattutto in scrittura ce li siamo guadagnati rispetto a soluzioni a chiavetta concorrenti. 
 
 Tutto allo stesso prezzo, se non inferiore in alcuni casi. 
 
 **Direi che conviene e l'intuizione era giusta. Si guadagna sul versante prestazionale, ma anche per quanto riguarda il riutilizzo dei supporti e il minor prezzo a parità di memoria.**
 
-**La possibilità di ottenere supporti portatili da oltre 1TB con ottime prestazioni non è da sottovalutare.**
+**La possibilità di ottenere supporti portatili da oltre 1TB, economici e con ottime prestazioni, non è da sottovalutare.**
 
-L'unica nota negativa riguarda un lieve aumento degli ingrombri, anche a causa del cavo usb esterno che però si presenta una vera e propria comodità in alcune situazioni dove la porta è difficilmente raggiungibile.
+L'unica nota negativa riguarda un lieve aumento degli ingrombri fisici, anche a causa del cavo usb esterno che però si presenta come una vera e propria comodità in alcune situazioni dove la porta è difficilmente raggiungibile o lo spazio è angusto.
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: "Me"
 date: 2019-12-22
-title: Perchè l'ultima generazione di Walkman, non è Walkman
+title: Perchè l'ultima generazione di Walkman, non è degna di essere Walkman
 best: false
 ---
 
@@ -25,7 +25,7 @@ Con una qualità sonora invidiabile e un look mirato alla sostanza, il Walkman N
 
 ![image](/img/walkman1.jpg)
 
-È interessante notare che anche se al passo con i tempi riguardo all'hardware e agli assemblaggi, il software montato è più unico che raro nel 2019. Più simile ad un dispositivo embedded musicale degli anni 90 che ad un gadget Android di dubbio gusto, il sistema operativo personalizzato da Sony (probabilmente un firmware basato su Linux) restituisce all'utente un ambiente confortevole e del tutto intuitivo.
+È interessante notare che anche se al passo con i tempi riguardo all'hardware e agli assemblaggi, il software montato è più unico che raro nel 2019. Più simile ad un embedded musicale degli anni 90 che ad un gadget Android di dubbio gusto, il sistema operativo personalizzato da Sony (probabilmente un firmware basato su Linux) restituisce all'utente un ambiente confortevole e del tutto intuitivo.
 
 Sebbene altre due ulteriori versioni (NW-A40/NW-A50) si siano susseguite negli anni sempre sul filone della serie NW-A portando rifiniture e assemblaggi più pregiati, il focus non è mai cambiato e oggigiorno posso dire con assoluta certezza che i dispositivi appartenenti a questa serie siano gli ultimi eredi della vera definizione Walkman.
 
@@ -38,12 +38,13 @@ Fra il 2015 e il 2017 due Walkman digitali molto particolari sono stati commerci
 
 Sebbene inarrivabili come categoria di prezzo, sono dispositivi di fascia alta e anch'essi costruiti sulla base dell'ideologia Walkman. Componentistica progettata ad-hoc e di elebata qualità per garantire una riproduzione musicale vicina alla perfezione. Funzioni ancora più granulari per permettere all'utenza riproduzioni pregiate e senza alcun limite. Non basterebbero trattati per descrivere quanta passione e che livello di qualità Sony abbia raggiunto con queste due serie. Destinati a diventare leggenda nei circoli di nicchia, almeno finchè Sony non verrà a patti con se stessa e capirà, forse, che gli unici fruitori di dispositivi come i Walkman sono proprio loro. 
 
-Il vero problema infatti è il desiderio irrefrenabile di Sony nel voler tentare di replicare il successo avuto nei tempi d'oro con gli stessi dispositivi. 
+Il vero problema infatti è il desiderio irrefrenabile di Sony nel voler tentare di replicare il successo avuto nei tempi d'oro con gli stessi dispositivi. Ma le esigenze sono cambiare e Sony è rimasta indietro.
 
-## Nessuno oggi compra un Walkman ANCHE per ascolta la musica, lo compra SOLO per ascoltare la musica aspettandosi la massima qualità ottenibile dalla sorgente. 
+## Nessuno oggi compra un Walkman ANCHE per ascolta la musica offline, lo compra SOLO per ascoltare musica offline aspettandosi la massima qualità ottenibile dalla sorgente. 
 
 Non sarà di certo l'aggiunta di funzionalità di contorno ad attirare i consumatori del nuovo millenio, già circondati da dispositivi tutto-in-uno come gli smartphone.
 In poche parole terra terra: Ai fruitori dei nuovi e vecchi Walkman non frega niente dell'integrazione con Spotify o Tidal. Perchè sul mercato c'è di meglio alla metà del prezzo per questi utilizzi.
+Un tablet o uno smartphone android economico potrebbe benissimo sopperire a questi utilizzi.
 
 ## I nuovi ZX500 & A100 e il DECLINO
 
