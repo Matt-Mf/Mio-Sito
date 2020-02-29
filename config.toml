@@ -1,4 +1,4 @@
-baseurl = "https://fumagalli-mf.netlify.com/"
+baseurl = "https://fumagalli-mf.vision/"
 theme = "../.."
 builddrafts = true
 canonifyurls = true
