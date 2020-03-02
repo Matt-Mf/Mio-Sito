@@ -1,7 +1,7 @@
 ---
 author: "Me"
 date: 2019-12-22
-title: Perchè l'ultima generazione di Walkman, non è degna di essere Walkman
+title: Perchè l'ultima generazione di Walkman, non è Walkman
 best: false
 ---
 
