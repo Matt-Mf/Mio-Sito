@@ -160,7 +160,8 @@ div.header .container .logo {
   {{ if .Site.Params.enlarged }}
   max-width: 200px;
   {{ else }}
-  max-width: 100px;
+  max-width: 50px;
+  
   {{ end }}
   margin-right: 20px;
   

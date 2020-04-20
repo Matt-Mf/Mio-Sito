@@ -36,12 +36,13 @@ justify-content: flex-start;
 }
 div.header .container .logo {
 margin: 0;
-margin-right: 95px;
+margin-right: 165px;
+margin-top: 30px;
 }
 div.header-home .container .logo {
 max-width: 216px;
 margin-left: 24px;
-margin-right: 95px;
+margin-right: 75px;
 }
 div.header-home .name-home {
 padding-top: 30px;
