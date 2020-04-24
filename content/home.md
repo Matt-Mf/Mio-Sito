@@ -2,5 +2,5 @@
 title = "Home"
 +++
 
-_Hi! I'm Matt, freelance IT consultant, italian cybersecurity student, junior sysadmin and tlc technician <br>  <br>I dig mainly networking stuff, web technologies, and modding._ 
+_Hi! I'm Matt, TLC technician now working as freelance IT consultant. I'm also a cybersecurity student at UniMI in Milano, aiming to a sysadmin career.<br> <br> Check on what i've worked in the projects section. These are work and personal projects._
 
