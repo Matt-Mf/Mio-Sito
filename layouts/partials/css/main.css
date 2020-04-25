@@ -198,8 +198,7 @@ div.header nav ul {
   display: inline-flex;
 }
 div.header nav ul li {
-  margin-left: 6px;
-  margin-right: 6px;
+  margin-left: 7px;
 }
 div.header nav ul li:first-child {
   margin-left: 0;
