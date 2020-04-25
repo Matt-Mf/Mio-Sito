@@ -19,7 +19,7 @@ Networking:
 * Pihole - V2: <a href="https://www.dropbox.com/s/n4hi4smvbfdod5t/2.jpg?dl=0">View</a>
 * TV to Lan streaming receiver (Linux-TVheadEND-VLC): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
 
-* Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20megabit adsl line, over 15.700/1050 Kbps at 6db profile! Fast and Stable!
+* Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20megabit adsl line, over 15.700 D / 1050 U Kbps at 6db profile! Fast and Stable!
 * Testing TP-Link TD-W8980/70 with custom firmware (OpenWrt): working on...
 
 * 1 gigabit Openfiber GPON access for home and office access: working on...
