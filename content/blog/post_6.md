@@ -35,7 +35,13 @@ Ecco un'accesa e interessante discussione con un dipendente microsoft sul loro b
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/ltsc-what-is-it-and-when-should-it-be-used/ba-p/293181
 ```
 
-Una cosa è certa, con qualche piccolo ritocco lo ritengo oggi il sistema operativo per desktop definitivo.
+Qui sono descritte le peripezie di un coraggioso utente Reddit che ha cercato di approfondire in che modo un utente "comune" possa ottenere una licenza per LTSC:
+
+```
+https://www.reddit.com/r/sysadmin/comments/bbof9s/windows_10_enterprise_ltsc_what_are_the_purchase/
+```
+
+Una cosa è certa, con qualche piccolo ritocco lo ritengo oggi il sistema operativo per desktop definitivo, ma che per qualche motivo a noi sconosciuto, Microsoft custodisce gelosamente per sé e per pochi eletti. 
 
 ![image](/img/ltsc.png)
 
