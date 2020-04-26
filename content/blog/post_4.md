@@ -5,7 +5,8 @@ title: OpenVPN Android Bug Installa-Certificato
 best: false
 ---
 
-Utilizzando vpn commerciali per questioni, sia di privacy personale che in fase di test per accessi alla rete da posizioni geografiche differenti rispetto al mio client, mi sono imbattuto in questo fastidioso bug ogni qualvolta ci si connetta al tunnel su android.
+Utilizzando vpn commerciali per questioni, sia di privacy personale che in fase di test per accessi alla rete da posizioni geografiche differenti rispetto al mio client, mi sono imbattuto in questo fastidioso bug ogni qualvolta ci si connetta su android.
+
 
 Con l'ultima versione dell'app ufficiale disponibile sul play-store, al momento 3.1.0, in fase di connessione alla VPN viene richiesto sempre tramite pop-up di selezionare o installare il certificato che il profilo non contiene.
 
@@ -26,6 +27,7 @@ setenv CLIENT_CERT 0
 ```
 
 ## Nota
+Una soluzione alternativa potrebbe anche essere utilizzare il più recente Wireguard.
 
 Sulla stato della segnalazione e risoluzione del bug, un paio di discussioni sono già state aperte sul forum ufficiale OpenVPN, ma ancora niente.
 Non escludo che potrebbero esserne già al corrente.
