@@ -13,11 +13,11 @@ https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
 
 https://wiki.mozilla.org/Websites/Domain_List/http
 ```
-The list debloated from abandoned domain is available on my Github and i will test it to see if it doesn't block any critical function like updates or bug reporting.
+The list, debloated from abandoned domain, is available on my Github and i will test it to see if it doesn't block any critical function like updates or bug reporting.
 
-So first finding is this old japanese site built to promote Firefox in Japan together with a cute mascote, Foxkeh.
+So, first finding is this old japanese site built to promote Firefox in Japan together with a cute mascote, Foxkeh.
 Latest post date back to 2009. 
-There are also wallapepers and other digital merchandise from that time!
+There are also wallpapers and other digital merchandise from that time!
 
 ![image](/img/fox.png)
 
