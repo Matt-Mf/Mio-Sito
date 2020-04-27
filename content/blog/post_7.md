@@ -48,7 +48,7 @@ And soo on. Remember this project is from 2013!
 All i could think reading a few lines of codes is that this project was probably about using an experimental biometric interface made by NeuroSky Inc. to be able to control something with the brain. Probably a scale model.
 Soo cool!
 
-Finally a brief list of another interesing ones:
+Last but not least another interesing ones:
 
 - xulfr dot org: An old french site that have something to do about first releases of Gecko engine.
 - artzilla dot org: Experimental and artistic browser software. 
