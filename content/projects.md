@@ -5,6 +5,7 @@ title = "Projects"
 _These are my personal work and hobbist projects._
 
 Web Design:
+
 * This website is built with Hugo, hosted on Netlify and Github, with a theme customized by me in HTML,CSS,Markdownm and YAML. Simple, safe and efficient!
 * Real Estate website - Wordpress CMS and custom theme: zottacase.it
 * Business consultant personal website - Responsive static website built with HUGO: abordiluca.it (Workin on...)
