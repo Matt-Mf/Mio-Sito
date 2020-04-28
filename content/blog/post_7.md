@@ -14,6 +14,8 @@ https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
 https://wiki.mozilla.org/Websites/Domain_List/http
 ```
 The list, debloated from abandoned domain, is available on my Github and i will test it to see if it doesn't block any critical function like updates or bug reporting.
+**Use at your own risk!**
+
 
 So, first finding is this old japanese site built to promote Firefox in Japan together with a cute mascote, Foxkeh.
 Latest post date back to 2009. 
