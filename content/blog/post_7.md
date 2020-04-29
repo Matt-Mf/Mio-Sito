@@ -5,8 +5,7 @@ title: Mozilla analytics domain list and curious findings
 best: false
 ---
 
-I was compiling a domain list to feed it into my Pihole to block dns queries to Mozilla analytics and telemetry servers. 
-Here from a list of Mozilla owned domains i found some little old treasures.
+I was compiling a domain list to feed it into my Pihole to block dns queries to Mozilla analytics and telemetry servers, and from a list of Mozilla owned domains, i found some little old treasures. 
 
 ```
 https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
@@ -17,20 +16,22 @@ The list, debloated from abandoned domain, is available on my Github and i will 
 **Use at your own risk!**
 
 
-So, first finding is this old japanese site built to promote Firefox in Japan together with a cute mascote, Foxkeh.
+So, first finding is this old japanese site built to promote Firefox in Japan together with a cute fox mascot, Foxkeh.
 Latest post date back to 2009. 
-There are also wallpapers and other digital merchandise from that time!
+There are also wallpapers and other digital merchandise from that time.
 
 ![image](/img/fox.png)
 
 Then there is this strange domain named interforest dot org that seems to be abandoned and for sale. 
-Who knows what will have been used for.
+Who knows what will have been used for by Mozilla.
 A lot of results from Google refer to something about old versions of Windows Server.
+Probably it was a testing purpose domain. Who know...
 
 ![image](/img/fox2.png)
 
 mecha-mozilla dot org is another strange one. Also this domain is for sale, 
-It might be an iot project from a brief review of the repos. Javascript and Arduino code.
+It might be an iot project from a brief review of the project with the same name on Github. 
+Some Javascript and Arduino code...
 
 ```
 https://github.com/mecha-mozilla
@@ -52,9 +53,9 @@ Soo cool!
 
 Last but not least another interesing ones:
 
-- xulfr dot org: An old french site that have something to do about first releases of Gecko engine.
-- artzilla dot org: Experimental and artistic browser software. 
+- xulfr dot org: An old french site that have something to do about first releases of Gecko engine used in Firefox browser.
+- artzilla dot org: Experimental and artistic browser software. I have no idea about this one.
 
 ![image](/img/fox4.jpg)
 
-Was also listed wearitproudly dot org. Very peculiar. Now it is on sale. It could be a good deal to resell later.
+Was also listed wearitproudly dot org. Very peculiar. Now it is on sale. It could be a good domain name to resell later.
