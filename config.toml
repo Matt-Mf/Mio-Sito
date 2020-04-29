@@ -1,6 +1,6 @@
 baseurl = "https://fumagalli-mf.vision/"
 theme = "../.."
-builddrafts = true
+builddrafts = false
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
@@ -41,7 +41,7 @@ github = "Matt-Mf"
 usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName/tree/master"
+githubRepo = "Privacy Policy"
 small_banner_logo = false
 
 [params.colors]

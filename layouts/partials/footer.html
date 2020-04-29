@@ -5,9 +5,9 @@
             <div class="copyright">
             {{ $length := len ( split .Site.Params.githubRepo "/" ) }}
             {{ if eq $length 2 }}
-                <a href="https://github.com/{{ .Site.Params.githubRepo }}/tree/master/content/{{ replace .File.Path "\\" "/" }}" target="_blank">View this post on GitHub</a>
+                    <a href="{{ .Site.Params.githubRepo }}">{{ replace .Site.Params.githubRepo "{year}" now.Year }}</a>
             {{ else }}
-                <a href="https://github.com/{{ .Site.Params.githubRepo }}/content/{{ replace .File.Path "\\" "/" }}" target="_blank">View this post on GitHub</a>
+            <a href="{{ .Site.BaseURL }}privacy">{{ replace .Site.Params.githubRepo "{year}" now.Year }}</a>
             {{ end }}
             </div>
         {{ end }}
@@ -44,7 +44,7 @@
         {{ end }}
 
         {{ if .Site.Params.email }}
-            <a href="mailto:&#102;&#117;&#109;&#097;&#103;&#097;&#108;&#108;&#105;&#046;&#109;&#097;&#116;&#116;&#101;&#111;&#064;&#112;&#111;&#115;&#116;&#101;&#111;&#046;&#110;&#101;&#116;">
+            <a href="mailto:">
                 <img class="icon" src="{{ .Site.BaseURL }}img/email.svg" alt="email" />
             </a>
         {{ end }}
