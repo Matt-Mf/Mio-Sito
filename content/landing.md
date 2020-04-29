@@ -1,6 +1,5 @@
 +++
 title= "landing"
-draft= "true"
 +++
 
 Thank you.

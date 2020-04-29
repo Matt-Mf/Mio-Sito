@@ -31,7 +31,7 @@
                         {{ end }}
                     {{ end }}
                     {{ range where .Site.RegularPages "Section" ""}}
-                        {{ if (and (and (ne .Title "License") (ne .Title "Home")) (not (in .Site.Params.exclude_headings (lower .Title))))}}
+                        {{ if (and (and (ne .Title "License" "privacy" "landing") (ne .Title "Home")) (not (in .Site.Params.exclude_headings (lower .Title))))}}
                             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                         {{ end }}
                     {{ end }}

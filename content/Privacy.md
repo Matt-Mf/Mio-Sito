@@ -1,6 +1,5 @@
 +++
 title= "privacy"
-draft= "true"
 +++
 > THIS SITE COLLECTS ONLY THE DATA THAT USERS HAVE SENT TO ME THROUGH THE CONTACT FORM
 
