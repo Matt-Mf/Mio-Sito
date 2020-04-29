@@ -10,7 +10,7 @@ MEMBER **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazi
 
 MEMBER **EFF** -  Electronic Frontier Foundation
 
-CISCO **CERTIFIED** - IT Essentials & CCNA Module 1
+CISCO **CERTIFIED** - IT Essentials & CCNA Module 1 & Intro to IOT and Cybersecurity
 
 AUTODESK FUSION 360 **CERTIFIED** - Introduction course
 
