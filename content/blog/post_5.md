@@ -14,18 +14,18 @@ Disponibili a poco prezzo, le unità SATA M2 stanno pian piano venendo rimpiazza
 
 Niente ci vieta di utilizzare supporti PCIe, ma i costi aumentano come anche le prestazioni, solo fino ai limiti dello standard dell'interfaccia utilizzata dall'enclosure (USB 2.0, 3.0, 3.1 ecc.).
 
-![image](/img/ssd1.jpg)
+![image](/static/img/ssd1.jpg)
 
 Utilizzando questi piccoli contenitori che agiscono da interfaccia, è possibile adottare questi componenti come flash-storage portatile a discapito delle più compatte, ma più costose in termini di GB e meno efficienti Chiavette USB.
  
-![image](/img/ssd2.jpg)
+![image](/static/img/ssd2.jpg)
 
 ## In Questo caso il mio setup consiste: 
 
 - Kingston SSD A400 M.2 240 GB fino a 500MB/s in lettura e 350MB/s in scrittura.
 - Aplic Custodia SSD USB 3.0
 
-![image](/img/ssd3.jpg)
+![image](/static/img/ssd3.jpg)
 
 ## Costi
 
@@ -47,7 +47,7 @@ Utilizzando questi piccoli contenitori che agiscono da interfaccia, è possibile
 
 ## Riguardo alle prestazioni di lettura e scrittura conviene?
 
-![image](/img/ssd4.jpg)
+![image](/static/img/ssd4.jpg)
 
 Dopo un veloce confronto online fra i vari datasheet, ecco che i nostri 200/300 MB/s in lettura, ma soprattutto in scrittura ce li siamo guadagnati rispetto a soluzioni concorrenti. 
 

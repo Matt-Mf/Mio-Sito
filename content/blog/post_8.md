@@ -13,11 +13,11 @@ _HTML & CSS by Fumagalli Matteo_
 
 - Middle 
 
-![image](/img/design3.JPG)
+![image](/static/img/design3.JPG)
 
 - Footer
 
-![image](/img/design4.JPG)
+![image](/static/img/design4.JPG)
 
 
 
