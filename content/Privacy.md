@@ -3,7 +3,7 @@ title= "privacy"
 +++
 >THIS SITE COLLECTS ONLY THE DATA THAT USERS HAVE SENT TO ME THROUGH THE CONTACT FORM
 
->THIS SITE DOESN'T COLLECT COOKIES FOR TRACKING PURPOSE
+>THIS SITE DOESN'T COLLECT OR MAKE USE OF TRACKING PURPOSE COOKIES
 
 >WHAT DATA DOES THIS WEBSITE COLLECT?
 >Data relating to your identity, such as your full name and email address.
@@ -14,9 +14,10 @@ title= "privacy"
 
 >WHY IS MY DATA COLLECTED?
 >To reach in contact with me.
+>No data is sold to third parties
 
 >WHO PROCESSES MY DATA?
->Fumagalli Matteo - Milano - Italy
+>Me: Fumagalli Matteo - Milano - Italy
 
 >HOW LONG IS MY DATA STORED FOR?
 >When you contact me using the contact forms, your Data will be stored only for the time needed to contact you back, then deleted.
@@ -28,8 +29,8 @@ title= "privacy"
 >I cannot be held liable for any failure to comply with privacy settings and security measures implemented on my Website.
 
 >WHAT ARE MY RIGHTS?
->You can decide not to provide your email address in the contact form and to request the deletion of your data.
->You can exercise your rights by sending an email at privacymf@posteo.de
+>You can decide not to provide your email address in the contact form or / and to request the deletion of your data.
+>You can exercise your GDPR rights by sending an email at privacymf@posteo.de
 
 >Latest update of this policy is 30/4/2020
 
