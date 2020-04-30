@@ -1,18 +1,24 @@
 ---
 author: "Me"
 date: 2020-05-01
-title: Vintage real estate website Concept design
+title: Vintage real estate website - Concept design
 best: false
 ---
 
+_HTML & CSS by Fumagalli Matteo_
+
+- Home
+
 ![image](/img/design2.JPG)
 
+- Middle 
 
 ![image](/img/design3.JPG)
 
+- Footer
 
 ![image](/img/design4.JPG)
 
 
-_HTML & CSS by Fumagalli Matteo_
+
 
