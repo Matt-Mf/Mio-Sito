@@ -1,6 +1,6 @@
 ---
 author: "Me"
-date: 2020-05-1
+date: 2020-05-01
 title: Vintage real estate website design - Concept
 best: false
 ---
