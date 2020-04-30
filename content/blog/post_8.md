@@ -9,7 +9,7 @@ _HTML & CSS by Fumagalli Matteo_
 
 - Home
 
-![image](/img/design2.JPG)
+![image](/static/img/design2.JPG)
 
 - Middle 
 
