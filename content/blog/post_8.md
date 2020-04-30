@@ -5,13 +5,13 @@ title: Vintage real estate website Concept design
 best: false
 ---
 
-![image](/img/design2.png)
+![image](/img/design2.JPG)
 
 
-![image](/img/design3.png)
+![image](/img/design3.JPG)
 
 
-![image](/img/design4.png)
+![image](/img/design4.JPG)
 
 
 _HTML & CSS by Fumagalli Matteo_
