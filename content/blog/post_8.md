@@ -9,15 +9,15 @@ _HTML & CSS by Fumagalli Matteo_
 
 - Home
 
-![image](/static/img/design2.JPG)
+![image](/static/img/design2.jpg)
 
 - Middle 
 
-![image](/static/img/design3.JPG)
+![image](/static/img/design3.jpg)
 
 - Footer
 
-![image](/static/img/design4.JPG)
+![image](/static/img/design4.jpg)
 
 
 
