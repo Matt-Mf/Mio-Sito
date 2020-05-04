@@ -43,7 +43,7 @@ https://www.reddit.com/r/sysadmin/comments/bbof9s/windows_10_enterprise_ltsc_wha
 
 Una cosa è certa, con qualche piccolo ritocco lo ritengo oggi il sistema operativo per desktop definitivo, ma che per qualche motivo a noi sconosciuto, Microsoft custodisce gelosamente per sé e per pochi eletti. 
 
-![image](/static/img/ltsc.png)
+![image](/img/ltsc.png)
 
 
 ## Script -->

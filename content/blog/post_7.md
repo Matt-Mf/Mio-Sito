@@ -20,14 +20,14 @@ So, first finding is this old japanese site built to promote Firefox in Japan to
 Latest post date back to 2009. 
 There are also wallpapers and other digital merchandise from that time.
 
-![image](/static/img/fox.png)
+![image](/img/fox.png)
 
 Then there is this strange domain named interforest dot org that seems to be abandoned and for sale. 
 Who knows what will have been used for by Mozilla.
 A lot of results from Google refer to something about old versions of Windows Server.
 Probably it was a testing purpose domain. Who know...
 
-![image](/static/img/fox2.png)
+![image](/img/fox2.png)
 
 mecha-mozilla dot org is another strange one. Also this domain is for sale, 
 It might be an iot project from a brief review of the project with the same name on Github. 
@@ -36,7 +36,7 @@ Some Javascript and Arduino code...
 ```
 https://github.com/mecha-mozilla
 ```
-![image](/static/img/fox3.png)
+![image](/img/fox3.png)
 
 But look at that repos names!
 
@@ -56,6 +56,6 @@ Last but not least another interesing ones:
 - xulfr dot org: An old french site that have something to do about first releases of Gecko engine used in Firefox browser.
 - artzilla dot org: Experimental and artistic browser software. I have no idea about this one.
 
-![image](/static/img/fox4.jpg)
+![image](/img/fox4.jpg)
 
 Was also listed wearitproudly dot org. Very peculiar. Now it is on sale. It could be a good domain name to resell later.

@@ -11,5 +11,5 @@ I needed a new site, both for my works and for my personal world and a static on
 
 Time will tell me. Benvenuti!
 
-![image](/static/img/relaxing_x4_by_1eni1-dblwkfi.gif)
+![image](/img/relaxing_x4_by_1eni1-dblwkfi.gif)
 
