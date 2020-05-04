@@ -31,6 +31,4 @@ title= "privacy"
 >You can decide not to provide your email address in the contact form and to request the deletion of your data.
 >You can exercise your rights by sending an email at privacymf@posteo.de
 
->Latest update of this policy is 30/4/2020
-
-
+>Latest update of this policy is 4/5/2020

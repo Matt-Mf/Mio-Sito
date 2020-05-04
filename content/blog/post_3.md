@@ -23,7 +23,7 @@ Inoltre di alternative cinesi di discreta qualità ne avevo provate, per esempio
  
 Con una qualità sonora invidiabile e un look mirato alla sostanza, il Walkman NW-A35 è stato, ed è tutt'ora un compagno fidato con oltre 500 ore di riproduzione sulle spalle. Svolge il suo dovere nel migliore dei modi. Nessuna funzionalità eccessivamente inutile o superflua può distrarti da quello che stai ascoltando. Una squadra fantastica, io e il mio Walkman. Un'autonomia di oltre 35 ore e supporto alle schede di memoria esterne completano il quadro di un dispositivo perfettamente bilanciato.
 
-![image](/static/img/walkman1.jpg)
+![image](/img/walkman1.jpg)
 
 È interessante notare che anche se al passo con i tempi riguardo all'hardware e agli assemblaggi, il software montato è più unico che raro per un dispostivo del 2019. Più simile ad un player musicale degli anni 90 che ad un gadget Android di dubbio gusto, il sistema operativo personalizzato da Sony (probabilmente un firmware basato sempre su Linux) restituisce all'utente un ambiente confortevole e del tutto intuitivo senza fronzoli.
 
@@ -34,7 +34,7 @@ Sebbene altre due ulteriori versioni (NW-A40/NW-A50) si siano susseguite negli a
 
 Fra il 2015 e il 2017 due Walkman digitali molto particolari sono stati commercializzati: sono l'NW-ZX100 e l'NW-ZX300, e una nuova serie di fascia alta che è la NW-WM.
 
-![image](/static/img/walkman2.jpg)
+![image](/img/walkman2.jpg)
 
 Sebbene inarrivabili come categoria di prezzo, sono dispositivi di fascia alta e anch'essi costruiti sulla base della filosofia Walkman. Componentistica progettata ad-hoc e di qualità per garantire una riproduzione musicale senza compromessi. Funzionalità di controllo ancora più granulari per permettere all'utenza riproduzioni pregiate e senza alcun limite (EQ avanzati, Vari filtri ecc.). Non basterebbere un trattato per descrivere quanta passione e che livello di qualità Sony sia riuscita a raggiungiere con queste due serie. Destinati a diventare leggenda nei circoli di nicchia degli appassionati, almeno finchè Sony non verrà a patti con se stessa e capirà, forse, che gli unici fruitori di dispositivi come i Walkman nel 2019 sono proprio loro. 
 
@@ -48,7 +48,7 @@ Un tablet o uno smartphone android economico potrebbe benissimo fare al caso e s
 
 ## I nuovi ZX500 & A100 e il declino
 
-![image](/static/img/walkman3.jpg)
+![image](/img/walkman3.jpg)
 
 Inaspettatamente Sony nel 2019 presenta e realizza due nuovi Walkman, tecnicamente non particolarmente innovativi, ma con molte lacune riguardo alle funzionalità. Quella fondamentale riguarda la loro dotazione software: Android.
 Perchè la considero una lacuna?
@@ -56,7 +56,7 @@ Viene a meno lo spirito di questi dispositivi, votati a fare un'unica cosa ed a 
 
 Quindi un definitivo ritiro in pensione di quello che il Walkman era ed ora non è più. Un fallimento commerciale annunciato, se non per i "moderni nostalgici" che di un Walkman non se ne fanno nulla se non come cimelio da esposizione o come gadget tra i milioni.
 
-![image](/static/img/walkman4.jpg)
+![image](/img/walkman4.jpg)
 
 Non solo tutto ciò sposta il focus fuori dalla funzione principale che un Walkman dovrebbe assolvere, ma anche compromessi che ne distruggono l'appetibilità: autonomia ridotta, aggiornamenti software e app tartassanti, integrazione con servizi Google e connettività ad internet del tutto superflua. 
 
@@ -68,7 +68,7 @@ I nuovi Walkman quindi non sono e non saranno mai le prime scelte per gli appass
 
 Forse una ricerca di mercato un po più dettagliata e del marketing più agguerrito potrebbero riportare Sony in carreggiata, ma questa è la mia personalissima opinione verso un'ottima realtà aziendale che produce ottimi prodotti, ma spesso ultimamente con focus del tutto sbagliati.
 
-![image](/static/img/walkman5.jpg)
+![image](/img/walkman5.jpg)
 
 
 
