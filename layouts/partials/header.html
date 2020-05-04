@@ -36,6 +36,8 @@
 						{{ if (and (and (ne .Title "landing") (ne .Title "Home")) (not (in .Site.Params.exclude_headings (lower .Title))))}}
                             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                         {{ end }}
+			{{ end }}
+			{{ end }}
                     {{ end }}
                 </ul>
             </nav>
