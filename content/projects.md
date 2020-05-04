@@ -6,7 +6,7 @@ _These are my personal work and hobbist projects._
 
 Web Design:
 
-* This website is custom built with Hugo, hosted on Netlify with Github source.
+* This website is custom built with HUGO, hosted on Netlify with Github source.
 
 * Real Estate website - Wordpress CMS and custom theme: <a href="https://www.zottacase.it">zottacase.it</a>
 
