@@ -41,7 +41,7 @@ Qui sono descritte le peripezie di un coraggioso utente Reddit che ha cercato di
 https://www.reddit.com/r/sysadmin/comments/bbof9s/windows_10_enterprise_ltsc_what_are_the_purchase/
 ```
 
-Una cosa è certa, con qualche piccolo ritocco lo ritengo oggi il sistema operativo per desktop definitivo, ma che per qualche motivo a noi sconosciuto, Microsoft custodisce gelosamente per sé e per pochi eletti. 
+Una cosa è certa, con qualche piccolo ritocco lo ritengo oggi il sistema operativo per desktop definitivo. 
 
 ![image](/img/ltsc.png)
 
