@@ -19,11 +19,11 @@ Ci sono attualmente (2020) 3 versioni di LTSC: una del 2015 (versione 1507), una
 
 Dopo esserne venuto a conoscenza ed aver cucinato ad-hoc l'immagine .iso attraverso vari tool e un po' di test, posso affermare concretamente che una versione così stabile, pulita ed ottimizzata non si vedeva da molto tempo da parte di Microsoft. Ricordate il lontano XP Sp 3 o il più recente 7 ultimate? A voi la scelta sul più stabile.
 
-Allora perchè la scelta da parte di Microsoft di non rendere LTSC disponibile al pubblico consumer sottoforma di licenza acquistabile? 
-Perchè Windows 10 LTSC deve essere un prodotto difficilmente acquistabile e riservato solo al ramo business? 
-Perchè Windows 10 LTSC non è Windows 10 stesso senza gli inutili fronzoli che dovrebbero esistere solo in una versione beta?
+* Allora perchè la scelta da parte di Microsoft di non rendere LTSC disponibile al pubblico consumer sottoforma di licenza acquistabile? 
+* Perchè Windows 10 LTSC deve essere un prodotto difficilmente acquistabile e riservato solo al ramo business? 
+* Perchè Windows 10 LTSC non è Windows 10 stesso senza gli inutili fronzoli che dovrebbero esistere solo in una ipotetica versione beta?
 
-I professionisti in particolare sarebbero davvero felici di non dover risolvere problemi su problemi dopo ogni aggiornamento che porta funzionalità inutilizzate e non richieste. Un'installazione pulita e longeva di un prodotto stabilmente testato è tutto ciò di cui si ha bisogno in ambito professionale.
+I professionisti, in particolare, sarebbero davvero felici di non dover risolvere problemi su problemi dopo ogni aggiornamento che porta funzionalità inutilizzate e non richieste. Un'installazione pulita e longeva di un prodotto stabilmente testato è tutto ciò di cui si ha bisogno in ambito professionale.
 Che me ne faccio di Candy Crash o dell'integrazione Xbox su delle macchine da lavoro?
 
 Quello che viene a meno sono la stabilità e la sicurezza a scapito di nuove funzionalità e sincronizzazioni su cloud ridondanti, perchè oggi è la moda del dato/app centralizzato a farla da padrone, ma non per questo soluzione ottima e vincente per tutti gli ambiti. Il paradigma del Software as a service non è sempre un'alternativa valida.
