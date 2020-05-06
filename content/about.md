@@ -6,9 +6,9 @@ Undergraduate student at UniMI - Network and System security.
 
 Secondary School Diploma in IT - TLC specialization.
 
-CISCO **CERTIFIED**-IT Essentials & CCNA Module 1 & Intro to IOT and Cybersecurity
+CISCO **CERTIFIED** - IT Essentials & CCNA Module 1 & Intro to IOT and Cybersecurity.
 
-AUTODESK FUSION 360 **CERTIFIED**
+AUTODESK FUSION 360 - **CERTIFIED**
 
 MEMBER **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazione, Informatica e Telecomunicazioni.
 
