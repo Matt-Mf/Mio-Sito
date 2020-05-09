@@ -2,7 +2,7 @@
 title = "Projects"
 +++
 
-_These are my personal work and hobbist projects._
+_These are my work and personal projects._
 
 Web Design:
 
