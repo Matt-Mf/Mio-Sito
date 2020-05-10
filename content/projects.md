@@ -42,3 +42,8 @@ Firmware:
 
 * Manually updating old and vulnerable CSME Intel firmware on abandoned by vendor (ASUS).
 * Manual update of an Infineon TPM (ASUS) Firmware, abandoned by vendor.
+
+OS:
+
+* Business backup solution with Duplicati.
+* Windows 7 to 10 update and migration.
