@@ -87,5 +87,15 @@ Migrate a copy of WP site to a new host (a new domain),schedule backups,send bac
 
 ___
 
+## SSL Insecure Content Fixer
 
+Mitigate SSL mixed content error.
+
+___
+
+## Cookie Notice for GDPR & CCPA - by dFactory
+
+GDPR cookie law.
+
+___
 
