@@ -5,7 +5,7 @@ title: Vintage feel real estate website - Concept design
 best: false
 ---
 
-_HTML & CSS by Fumagalli Matteo_
+_HTML & CSS draft by Fumagalli Matteo_
 
 - Home
 

@@ -40,7 +40,7 @@ Sebbene inarrivabili come categoria di prezzo, sono dispositivi di fascia alta e
 
 Il vero problema infatti è il desiderio irrefrenabile di Sony nel voler tentare di replicare il successo avuto nei tempi d'oro. Ma le esigenze sono cambiate e Sony è rimasta indietro.
 
-## Nessuno oggi compra un Walkman ANCHE per ascolta musica offline, lo compra SOLO per ascoltare musica offline aspettandosi la massima qualità ottenibile dalla sorgente. 
+## Nessuno oggi compra un Walkman ANCHE per ascoltare musica offline, lo compra SOLO per ascoltare musica offline aspettandosi la massima qualità ottenibile dalla sorgente. 
 
 Non sarà di certo l'aggiunta di funzionalità di contorno ad attirare i consumatori del nuovo millenio, già circondati da dispositivi tutto-in-uno come gli smartphone.
 In poche parole: Ai fruitori dei nuovi e vecchi Walkman non interessa dell'integrazione con Spotify o Tidal o di qualsiasi altro servizio di streaming. Perchè sul mercato c'è di meglio alla metà del prezzo per questi utilizzi.
