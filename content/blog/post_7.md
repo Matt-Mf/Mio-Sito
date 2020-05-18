@@ -25,7 +25,7 @@ There are also wallpapers and other digital merchandise from that time.
 Then there is this strange domain named interforest dot org that seems to be abandoned and for sale. 
 Who knows what will have been used for by Mozilla.
 A lot of results from Google refer to something about old versions of Windows Server.
-Probably it was a testing purpose domain. Who know...
+Probably it was a testing purpose domain. Who knows...
 
 ![image](/img/fox2.png)
 
