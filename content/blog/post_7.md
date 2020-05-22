@@ -17,7 +17,7 @@ The list, debloated from abandoned domain, is available on my Github and i will 
 
 
 So, first finding is this old japanese site built to promote Firefox in Japan together with a cute fox mascot, Foxkeh.
-Latest post date back to 2009. 
+Latest post dates back to 2009. 
 There are also wallpapers and other digital merchandise from that time.
 
 ![image](/img/fox.png)
@@ -53,7 +53,7 @@ Soo cool!
 
 Last but not least another interesing ones:
 
-- xulfr dot org: An old french site that have something to do about first releases of Gecko engine used in Firefox browser.
+- xulfr dot org: An old french site that have something to do about first releases of Gecko engine used in Firefox browser. Now it's like a time capsule for the old era.
 - artzilla dot org: Experimental and artistic browser software. I have no idea about this one.
 
 ![image](/img/fox4.jpg)
