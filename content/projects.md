@@ -10,7 +10,7 @@ Web Design:
 * Real Estate website - Wordpress CMS, custom theme and GDPR: <a href="https://www.zottacase.it">zottacase.it</a>
 * Business consultant personal website - Custom built with HUGO: studioabordi.it (Workin on...)
 
-Open source contribution:
+Open-source software contribution:
 
 * I helped translate <a href="https://github.com/tristanheaven/gtkhash">gtkhash</a>, a small utility in C for verifying cheksum.
 * Latest Fedora Linux distro beta testing.
@@ -20,15 +20,15 @@ Networking:
 
 * Pihole - V1: <a href="https://www.dropbox.com/s/1hi3z70x1bjkyrz/pihole.JPG?dl=0">View</a>
 * Pihole - V2: <a href="https://www.dropbox.com/s/n4hi4smvbfdod5t/2.jpg?dl=0">View</a>
-* TV signal to Lan streaming receiver (Linux-TVheadEND-VLC): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
-* Mobile Tor onion network proxy with backup battery on a Raspberry Pi 3b: Was the high school exam project.
+* TV signal to Lan streaming receiver (Raspbian-TVheadEND-VLC): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
+* Mobile Tor onion network proxy with backup battery on a Raspberry Pi 3b (a TorBox precursor): Was the high school exam project.
 * Dynamic DNS and NAT Traversal VPN setup for remote smart-working with SoftEtherVPN. 
 * Designing a 1 gigabit Openfiber GPON access draft, valid for residential and office building.
 
 Router modding:
 
 * Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20megabit adsl line, over 15.700 D / 1050 U Kbps at 6db profile! Fast and Stable!
-* Testing TP-Link TD-W8970 with custom open source firmware (OpenWrt).
+* TP-Link TD-W8970 with open-source firmware (OpenWrt).
 
 Android modding:
 
