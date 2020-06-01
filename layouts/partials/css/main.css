@@ -182,7 +182,6 @@ div.header .name {
   {{ end }}
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
   color: #333333;
 }
 div.header nav {
@@ -308,7 +307,6 @@ div.main .content .page-heading {
   text-transform: uppercase;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
   color: #333333;
   margin-bottom: 16px;
 }
@@ -485,7 +483,6 @@ div.main .content .markdown h6 {
   font-weight: 700;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
   color: #333333;
   text-transform: none;
   margin-top: 1.75rem;
@@ -507,7 +504,7 @@ div.main .content .markdown h5,
 div.main .content .markdown h6 {
   font-size: 1rem;
   margin-bottom: 1rem;
-  letter-spacing: none;
+  letter-spacing: 0;
 }
 div.main .content .markdown code,
 div.main .content .markdown pre {

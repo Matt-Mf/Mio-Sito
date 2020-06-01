@@ -17,13 +17,13 @@
 </noscript>
 
 {{ if .Site.Params.highlightjs }}
-  <style type="text/css" media="screen">
+  <style>
     {{ partial "css/highlight.min.css" . | safeCSS }}
   </style>
 {{ end }}
 
 {{ if .Site.Params.progressively }}
-  <style type="text/css" media="screen">
+  <style>
     {{ partial "css/progressively.min.css" . | safeCSS }}
   </style>
 {{ end }}
@@ -35,7 +35,7 @@
 {{ end }}
 
 {{ if .Site.Params.colors }}
-  <style type="text/css" media="screen">
+  <style>
     {{ partial "css/colors.css" . | safeCSS }}
   </style>
 {{ end }}
