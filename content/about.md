@@ -18,4 +18,4 @@ MEMBER **EFF** - Electronic Frontier Foundation
 
 For detailed CV, job proposals or any other inquiries feel free to contact me.
 
-<a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here</a> my public pgp key for sending me encrypted emails.
+<a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public pgp key for sending me encrypted emails.
