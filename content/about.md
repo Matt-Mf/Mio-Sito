@@ -21,5 +21,5 @@ For detailed CV, job proposals or any other inquiries feel free to contact me.
 <a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public pgp key for sending me encrypted emails.
 
 <a href="https://html5.validator.nu/?doc=https%3A%2F%2Ffumagalli-mf.vision%2F">
-    <img src="img/v.svg" alt="HTML5 Valid" />
+    <img src="img/v.svg" alt="HTML5 Valid" viewBox="0 0 60 55" width="100" height="50"/>
 </a>
