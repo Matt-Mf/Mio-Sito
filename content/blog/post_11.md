@@ -5,8 +5,8 @@ title: "Ebiter Milano e portale web - Malasicurezza IT all'italiana"
 best: false
 ---
 
-È iniziato tutto un fresco due giugno, essendo festa nazionale i miei genitori si trovavano a casa.
-A volte capita che li assista in qualche compilazione di moduli online non del tutto chiari, o nel seguire procedure a dir poco oscure, ai limiti delle possibilità burocratiche umane.
+È iniziato tutto un fresco due giugno.
+A volte capita che assista i miei genitori in qualche compilazione di moduli online non del tutto chiari, o nel seguire procedure a dir poco oscure, ai limiti delle possibilità burocratiche umane.
 
 In questo caso è la procedura per la riscossione di un semplice contributo alla genitorialità da EBiTer Milano.
 
@@ -75,7 +75,7 @@ X-AspNet-Version
 ---
 -------
 
-Ecco che anche i response header sono divulgati in chiaro e ci mostrano la versione del .net framework direi non del tutto recente.
+Ecco che anche i response header sono divulgati in chiaro e ci mostrano la versione del ASP.net framework direi non del tutto recente. (Siamo alla 4.8)
 
 ![image](/img/ebi4.JPG)
 
@@ -105,6 +105,8 @@ Della 443 non c'è traccia.
 
 Il server ha accettato la connessione via telnet mentre tentavo di raggiungere uno dei servizi su porta aperta.
 Non bene.
+
+![image](/img/ebi12.JPG)
 
 -------
 Dominio e responsabilità
