@@ -119,6 +119,7 @@ Nelle informazioni sul dominio invece fa capolino questa buffa società di "cons
 ![image](/img/ebi7.JPG)
 
 Alicom sembrerebbe una società che in tempi passati rivendeva servizi per Aruba, ora confluita.
+
 >Aruba Business Partner è il programma rivenditori di Aruba attraverso cui aziende e professionisti IT possono gestire o rivendere tutti i dei prodotti Aruba.
 
 Ricercando sul web altre informazioni ci si imbatte in omonimi o reindirizzamenti verso Aruba.
