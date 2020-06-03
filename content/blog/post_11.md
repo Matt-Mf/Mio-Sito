@@ -24,12 +24,12 @@ Penso che esista una regola non scritta in riferimento al fatto di non coprire m
 
 Queste dopotutto sono piccolezze, almeno il banner è presente quindi un minimo di fiducia sul rispetto della GPDR da parte del portale, possiamo anche riporla.
 
-Ecco che subito dopo noto che il portale è interamente servito in chiaro senza HTTPS.
+Ecco che subito dopo noto che il tutto è interamente servito in chiaro senza HTTPS.
 
 Di primo impatto penso ad un certificato SSL temporaneamente scaduto e in manutenzione, ma per un portale di questo tipo che tratta **anche dati personali** in un momento dove l'utilizzo del mezzo digitale è d'obbligo, è già di per se grave.
-Oppure ad un malfunzionamento del servizio in stile INPS click day.
+Oppure ad un malfunzionamento del servizio in stile INPS click day, come accaduto durante il periodo di erogazione del bonus.
 
-Facendomi un giro, noto che tutti i servizi presenti sul portale come tutti i form, sono serviti solo in HTTP ad eccezione di qualche font servito da Google. Altro che mixed-content... qua è tutto in chiaro e lo è da sempre.
+Facendomi un giro, noto che tutti i servizi presenti e tutti i form, sono serviti solo in HTTP ad eccezione di qualche font servito da Google. Altro che mixed-content... qua è tutto in chiaro e sembrerebbe esserlo da parecchio tempo.
 
 -------
 I FORM in http
@@ -50,7 +50,7 @@ Convertire tutti i file in documenti pdf, anche per fare solo un tentativo, era 
 
 Un bug? 
 
-Il server si sarà spaventato vista la rarità di user_agent: Chromium-Linux? 
+Una post non interpretata? Il server si sarà spaventato vista la rarità di user_agent: Chromium-Linux? 
 
 Il tutto è semplicemente fatto con i piedi e quindi non funziona?
 
