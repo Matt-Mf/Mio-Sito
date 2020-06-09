@@ -13,7 +13,7 @@ Web Design:
 Open-source software contribution:
 
 * I helped translate <a href="https://github.com/tristanheaven/gtkhash">gtkhash</a>, a small utility in C for verifying cheksum.
-* Latest Fedora Linux distro beta testing.
+* Latest Fedora Linux distro beta testing and bug reporting.
 * Investigating the possibility of importing latest security patches on Ancistrus custom firmware for Netgear D7000 router. (Working on...)
 
 Networking:
@@ -23,18 +23,22 @@ Networking:
 * TV signal to Lan streaming receiver (Raspbian-TVheadEND-VLC): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
 * Mobile Tor onion network proxy with backup battery on a Raspberry Pi 3b (a TorBox precursor): Was the high school exam project.
 * Dynamic DNS and NAT Traversal VPN setup for remote smart-working with SoftEtherVPN. 
-* Designing a 1 gigabit Openfiber GPON access draft, valid for residential and office building.
+* Designing a 1 gigabit Openfiber-GPON LAN and WLAN access draft, valid for residential and small office.
+
+* Migrate all to Raspberry Pi's Kubernetes cluster with services like Pihole, Nextcloud, Backup solutions like Bacula ecc. (Draft)
 
 Router modding:
 
-* Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20megabit adsl line, over 15.700 D / 1050 U Kbps at 6db profile! Fast and Stable!
+* Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20-megabit adsl line, over 15.700 D / 1050 U (Kbps) at 6db profile! Fast and Stable!
 * TP-Link TD-W8970 with open-source firmware (OpenWrt).
+* Custom PfSense firewall build with pcengines APU board. (Draft)
 
 Android modding:
 
 * Xiaomi Redmi Go - AOSP android with custom twrp recovery. Free from chinese software!
 * Amazon Fire HD 8 flashed with custom rom (LineageOS, SlimLP) twrp recovery, and root access. Free from Amazon chains!
-* Android Debug Bridge (adb) tinkering.
+* Android Debug Bridge (adb) tinkering to disable bloatware apps.
+* Xperia Z2 fresh battery change and LineageX 1.0 with DooMKernel update. (Draft)
 
 Firmware:
 
@@ -43,5 +47,5 @@ Firmware:
 
 OS:
 
-* Business backup solution with Duplicati.
+* Backup solution with Duplicati, Macrium and Timeshift.
 * Windows 7 to 10 update and migration.
