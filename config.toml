@@ -45,7 +45,7 @@ githubRepo = "Privacy Policy"
 small_banner_logo = false
 
 [params.colors]
-identifier = "#a45a04bf"
+identifier = "#df5000"
 identifier_dark = "#1a3152"
 trivial = "#6a7a8b"
 foreground = "#181d2a"
