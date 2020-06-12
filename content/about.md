@@ -16,8 +16,6 @@ MEMBER **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazi
 
 MEMBER **EFF** - Electronic Frontier Foundation
 
-<br>
-
 -------
 
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
