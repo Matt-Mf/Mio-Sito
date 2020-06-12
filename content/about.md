@@ -22,6 +22,10 @@ For detailed CV, job proposals or any other inquiries feel free to contact me.
 
 <a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public pgp key for sending me encrypted stuff.
 
+In case of Quantum computers threat, please use symmetric encryption standard and securely disclosure the key with me.
+
+Some on-the-fly utilities are: cryptomator.org - hat.sh
+
 -------
 
 I use the blog section like halfway between a notebook and a collection of the discoveries I make. Take everything with a grain of salt (everywhere...) and sometimes here and there you will find me working on some corrections to both new and old posts.
