@@ -20,9 +20,9 @@ MEMBER **EFF** - Electronic Frontier Foundation
 
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
 
-<a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public pgp key for sending me encrypted stuff.
+<a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public 2048 bit pgp key for sending me encrypted stuff.
 
-In case of Quantum computers threat, please use symmetric encryption standard and securely disclosure the key with me.
+In case of Quantum computers threat or high sensitive info, please use symmetric encryption standard (key size >= 128 bit) and **securely share the key with me.**
 
 Some on-the-fly utilities are: cryptomator.org - hat.sh
 
