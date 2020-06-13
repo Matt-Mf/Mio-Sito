@@ -2,9 +2,9 @@
 title = "About"
 +++
 
-Undergraduate student at UniMI - Network and System security.
+Undergraduate student at UniMI - Network and System security &#128274;
 
-Secondary School Diploma in IT - TLC specialization &#128225;.
+Secondary School Diploma in IT - TLC specialization &#128225;
 
 -------
 
