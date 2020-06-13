@@ -4,9 +4,11 @@ title = "About"
 
 Undergraduate student at UniMI - Network and System security.
 
-Secondary School Diploma in IT - TLC specialization.
+Secondary School Diploma in IT - TLC specialization &#128225;.
 
 -------
+
+&#128736;
 
 CISCO **CERTIFIED** - IT Essentials & CCNA Module 1 & Intro to IOT and Cybersecurity.
 
