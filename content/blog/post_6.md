@@ -61,3 +61,12 @@ Modifiche apportate:
 ```
 https://rentry.co/ltsc_optimize
 ```
+
+-------
+
+Aggiornamento: Forse una modalità per l'acquisto di una licenza per LTSC (a partire da una installazione di windows 10 OEM pulita) esiste. Di certo c'è solo la complessità della procedura.
+
+```
+https://community.spiceworks.com/topic/2167558-explicit-instructions-for-purchasing-a-windows-10-ltsc-license
+```
+

@@ -41,13 +41,13 @@ I FORM in http
 -------
 Veniamo alla compilazione dei vari moduli per la richiesta dei contributi.
 
-Il punto dolente sono la compilazione di questi form con dati personali sensibili quali indirizzi, cf, identificativi vari che poi verranno restituiti in chiaro al server attraverso una semplice POST che se siamo fortunati verrà validata. 
+Il punto dolente sono la compilazione di questi form con dati personali sensibili quali indirizzi, cf, identificativi vari che poi verranno restituiti in chiaro al server attraverso una POST che se siamo fortunati verrà validata. 
 
-Magari un'analisi più approfondita per verificare la validazione degli input e testare un paio di attacchi (XSS, SQL Injection ecc.) si potrebbe fare, ma il mio tempo è limitato e non vorrei mai rubare il lavoro ai LulzSecITA o qualche team di pakistani. Mi limiterò ad una veloce analisi, anche se sono abbastanza sicuro che non ne uscirebbero bene.
+Magari un'analisi più approfondita per verificare la validazione degli input e testare un paio di attacchi (XSS, SQL Injection ecc.) si potrebbe fare, ma il mio tempo è limitato e non vorrei mai rubare il lavoro ai LulzSecITA o qualche team di hacker pakistani. Mi limiterò ad una veloce analisi superficiale, anche se sono abbastanza sicuro che non ne uscirebbero bene.
 
-Compilando i campi e dopo una conferma via email, viene generata l'apertura di un secondo form dove inserire i documenti scannerizzati (carta di identità ecc.) sempre poi restituiti in chiaro al server in POST e su chissà poi che altro backend interno.
+Compilando i campi e dopo una conferma inviata via email (che probabilmente può essere intercettata in uscita dallo stesso server vista la presenza del mail-server sullo stesso), viene generata l'apertura di un secondo form dove inserire i documenti scannerizzati (carta di identità ecc.) sempre poi restituiti in chiaro al server in POST e su chissà poi che altro backend interno.
 
-(da verifica successiva sulle porte in ascolto, sullo stesso server girano infatti webserver, email-server con smtp e pop3 e altri servizi facilmente exploitabili...)
+(da verifica successiva sulle porte in ascolto, sullo stesso server girano infatti webserver, email-server con smtp e pop3 e altri servizi pericolosamente exploitabili...)
 
 La goccia che ha fatto traboccare il vaso e che mi ha spinto ad investigare questa immondizia software è relativa al fatto che il secondo form non accettava in alcun modo i miei allegati.
 
