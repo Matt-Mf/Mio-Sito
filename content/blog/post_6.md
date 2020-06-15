@@ -1,7 +1,7 @@
 ---
 author: "Me"
 date: 2020-02-07
-title: Windows 10 LTSC - Ottimizzazione ISO
+title: Windows 10 LTSC - Cucinando l'.ISO perfetta
 best: false
 ---
 
@@ -66,7 +66,7 @@ Modifiche apportate:
 https://rentry.co/ltsc_optimize
 ```
 
-
+<br>
 
 -------
 
