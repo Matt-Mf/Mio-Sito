@@ -60,7 +60,7 @@ Quindi un definitivo ritiro in pensione di quello che il Walkman era ed ora non 
 
 Non solo tutto ciò sposta il focus fuori dalla funzione principale che un Walkman dovrebbe assolvere, ma anche compromessi che ne distruggono l'appetibilità: autonomia ridotta, aggiornamenti software e app tartassanti, integrazione con servizi Google e connettività ad internet del tutto superflua. 
 
-**Se lo scopo è quello di offrire un dispositivo per l'ascolto di musica attraverso le note piattaforme di Streaming, non sarà certo un Walkman da oltre 800 euro la scelta migliore per un mercato consumer non del tutto prospero, ne per uno di nicchia.**
+**Se lo scopo è quello di offrire un dispositivo per l'ascolto di musica attraverso le note piattaforme di Streaming, non sarà certo un Walkman da oltre 800 euro la scelta migliore per un mercato consumer saturo, ne per uno di nicchia.**
 
 Ciò che ha portato all'estinzione dei supporti analogici (quali vinili, musicassette ecc.), l'adozione di Android e lo spostamento del focus originale l'ha fatto con i Walkman.
 

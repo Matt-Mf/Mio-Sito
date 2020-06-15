@@ -2,9 +2,9 @@
 title= "License"
 +++
 
-Theme based on Cocoa Enhanced theme by Michael Noronha and Nishanth Shanmugham, modified by me. Built with HUGO static site generator and hosted on Netlify.
+Theme based on Cocoa Enhanced theme by Michael Noronha and Nishanth Shanmugham, modified by Fumagalli Matteo. Built with HUGO.
 
-MIT License.
+MIT License
 
 > THE SOFTWARE AND INFORMATION HERE, ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 > IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

@@ -25,7 +25,7 @@ Networking:
 * Dynamic DNS and NAT Traversal VPN setup for remote smart-working with SoftEtherVPN. 
 * Designing a 1 gigabit Openfiber-GPON LAN and WLAN access draft, valid for residential and small office.
 
-* Migrate all to Raspberry Pi's Kubernetes cluster with services like Pihole, Nextcloud, Backup solutions like Bacula ecc. (Draft)
+* Migrate to a Raspberry Pi's Kubernetes cluster all services i use like: Pihole, Nextcloud, Backup solutions like Bacula, ecc. (Draft)
 
 Router modding:
 
@@ -36,16 +36,11 @@ Router modding:
 Android modding:
 
 * Xiaomi Redmi Go - AOSP android with custom twrp recovery. Free from chinese software!
-* Amazon Fire HD 8 flashed with custom rom (LineageOS, SlimLP) twrp recovery, and root access. Free from Amazon chains!
+* Amazon Fire HD 8 flashed with custom rom (LineageOS) twrp recovery, and root access. Free from FireOS chains!
 * Android Debug Bridge (adb) tinkering to disable bloatware apps.
 * Xperia Z2 fresh battery change and LineageX 1.0 with DooMKernel update. (Draft)
 
 Firmware:
 
-* Manually updating old and vulnerable CSME Intel firmware on abandoned by vendor (ASUS).
+* Manually updating old and vulnerable CSME Intel firmware on abandoned by vendor motherboard (ASUS).
 * Manual update of an Infineon TPM (ASUS) Firmware, abandoned by vendor.
-
-OS:
-
-* Backup solution with Duplicati, Macrium and Timeshift.
-* Windows 7 to 10 update and migration.
