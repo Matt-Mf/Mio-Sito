@@ -20,7 +20,7 @@ MEMBER **EFF** - Electronic Frontier Foundation
 
 -------
 
-I'm from Italy &#xe50f;
+I'm from Italy &#58639;
 
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
 
