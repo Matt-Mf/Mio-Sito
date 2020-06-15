@@ -3,11 +3,11 @@ title= "privacy"
 +++
 >THIS SITE COLLECTS ONLY THE DATA THAT USERS HAVE SENT TO ME THROUGH THE CONTACT FORM
 
->THIS SITE DOESN'T COLLECT DATA THROUGH COOKIES.
+>THIS SITE DOESN'T COLLECT DATA THROUGH COOKIES OR ANALYTICS SERVICE.
 
 >WHAT DATA DOES THIS WEBSITE COLLECT?
 >Data relating to your identity, such as your full name and email address.
->No third party service has access to users' personal data.
+>No third party service has access to users personal data.
 
 >HOW IS MY DATA COLLECTED?
 >Directly through the contact form when you communicate with me.
@@ -31,4 +31,4 @@ title= "privacy"
 >You can decide not to provide your email address in the contact form and to request the deletion of your data.
 >You can exercise your rights by sending an email at privacymf@posteo.de
 
->Latest update of this policy is 4/5/2020
+>Latest update of this policy is 15/6/2020
