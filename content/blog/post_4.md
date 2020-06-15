@@ -21,11 +21,13 @@ Il tunnel VPN viene comunque creato e la connessione viene instaurata e mantenut
 ## Quindi come eliminare il noiosissimo e inutile avviso che ad ogni avvio si ripresenta?
 -----------
 
-SOLUZIONE: Inserire all'interno del profilo .ovpn la seguente riga di codice 
+Soluzione: Inserire all'interno del profilo .ovpn la seguente riga di codice 
 
 ```
 setenv CLIENT_CERT 0 
 ```
+
+<br>
 
 
 ## Nota

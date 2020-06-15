@@ -17,7 +17,7 @@ Ci sono attualmente (Oggi 2020) 3 versioni di LTSC: una del 2015 (versione 1507)
 
 ----------------
 
-Dopo esserne venuto a conoscenza, ed aver cucinato ad-hoc l'immagine .iso attraverso vari tool e un po' di test (**Link alla guida che ho scovato in fondo all pagina**), posso affermare concretamente che una versione così stabile, pulita ed ottimizzata non si vedeva da molto tempo da parte di Microsoft. Ricordate il lontano XP Sp 3 o il più recente 7 ultimate? A voi la scelta sul più stabile.
+Dopo esserne venuto a conoscenza, ed aver cucinato ad-hoc l'immagine .iso attraverso vari tool e un po' di test (**Link alla guida che ho scovato in fondo alla pagina**), posso affermare concretamente che una versione così stabile, pulita ed ottimizzata non si vedeva da molto tempo da parte di Microsoft. Ricordate il lontano XP Sp 3 o il più recente 7 ultimate? A voi la scelta sul più stabile.
 
 * Perchè la scelta da parte di Microsoft di **non** rendere LTSC disponibile al pubblico consumer sottoforma di licenza acquistabile? 
 * Perchè Windows 10 LTSC deve essere un prodotto riservato solo al ramo business più stretto? 
