@@ -16,7 +16,7 @@ title= "privacy"
 >To reach in contact with me.
 
 >WHO PROCESSES MY DATA?
->Fumagalli Matteo - Milano - Italy
+>Fumagalli Matteo - Italy
 
 >HOW LONG IS MY DATA STORED FOR?
 >When you contact me using the contact forms, your Data will be stored only for the time needed to contact you back, then deleted.

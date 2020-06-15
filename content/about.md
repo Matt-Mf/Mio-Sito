@@ -20,6 +20,8 @@ MEMBER **EFF** - Electronic Frontier Foundation
 
 -------
 
+I'm from Italy &#xe50f;
+
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
 
 <a href="https://www.fumagalli-mf.vision/pgp-key.txt">Here's</a> my public 2048 bit pgp key for sending me encrypted stuff.
