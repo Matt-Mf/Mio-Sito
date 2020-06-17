@@ -39,5 +39,5 @@ All the opinions expressed are mine and may vary over time, even according to th
 -------
 
 <a href="https://html5.validator.nu/?doc=https%3A%2F%2Ffumagalli-mf.vision%2F">
-    <img src="img/v.svg" alt="HTML5 Valid" viewBox="0 0 60 55" width="100" height="50"/>
+    <img src="img/v.svg" alt="HTML5 Valid" viewBox="0 0 60 55" width="100" height="50" id="htmlvalid"/>
 </a>
