@@ -87,6 +87,7 @@ body {
   color: #111111;
   line-height: 1.6;
   text-rendering: optimizeLegibility !important;
+  background-color: gainsboro;
 }
 .icon {
   text-rendering: geometricPrecision !important;
@@ -164,6 +165,7 @@ div.header .container .logo {
   
   {{ end }}
   margin-right: 20px;
+  margin-top: 5px;
   
 }
 div.header .name {
