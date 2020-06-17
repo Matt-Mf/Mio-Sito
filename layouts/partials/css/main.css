@@ -141,6 +141,7 @@ div.header .container {
   -moz-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
+  background-color: lightgrey;
 }
 div.header .content {
   display: -webkit-flex;
