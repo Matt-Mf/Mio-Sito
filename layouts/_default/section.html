@@ -7,7 +7,7 @@
 
                 {{ range where .Data.Pages "Title" .Title }}
                 <div class="markdown">
-                  <p style="background-color: gainsboro;">{{ .Content }}</p>
+                  <p>{{ .Content }}</p>
                 </div>
                 {{ end }}
 

@@ -609,7 +609,7 @@ div.main .content .markdown blockquote p:last-child {
 }
 div.main .content .markdown figure {
   width: 100%;
-  background: #fff;
+  background: gainsboro;
   margin-bottom: 1em;
 }
 div.main .content .markdown figure img {
