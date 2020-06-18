@@ -28,6 +28,8 @@ For detailed CV, job proposals or any other inquiries feel free to contact me.
 
 In case of Quantum computers threat or high sensitive info, please use symmetric encryption standard (key size >= 128 bit) and **securely share the key with me.**
 
+Remember that email is on of the worst protocol for privacy and security. **Use end-to-end encrypted services when possible.**
+
 Some on-the-fly utilities are: cryptomator.org - hat.sh
 
 -------
