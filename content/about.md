@@ -30,7 +30,7 @@ In case of Quantum computers threat or high sensitive info, please use symmetric
 
 Remember that email is on of the worst protocol for privacy and security. **Use end-to-end encrypted services when possible.**
 
-Some on-the-fly utilities are: cryptomator.org - hat.sh
+Some on-the-fly utilities for this scope are: hat.sh - cryptpad.fr - cryptomator.org
 
 -------
 
