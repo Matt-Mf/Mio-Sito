@@ -755,3 +755,17 @@ kbd {
   margin-right: auto;
   width: 100%;
 }
+
+.okay {
+  background-color: #000000;
+  color: white;
+ padding: 12px 20px; 
+ border: none; border-radius: 4px; 
+ cursor: pointer; 
+ float: right;"
+}
+
+.okay:hover {
+  background-color: #4CAF50;
+  color: white;
+}
