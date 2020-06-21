@@ -4,19 +4,20 @@ title: "Contact"
 
 <form name="contact" netlify-honeypot="bot-field" method="POST" data-netlify="true" action="/landing/" style="box-sizing: border-box;">
   
-	<input name="full-name" type="text" placeholder="Name" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; margin-bottom: 10px;">
+	<input name="full-name" type="text" placeholder="Name" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; margin-bottom: 10px; background-color: lightgray;">
 
-    <input name="email-address" type="email" placeholder="Email" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; margin-bottom: 10px;">
+    <input name="email-address" type="email" placeholder="Email" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; margin-bottom: 10px; background-color: lightgray;">
 
 <span contenteditable="true">
-    <textarea name="message" type="text" placeholder="Message..." required  style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; height:200px;"></textarea>
+    <textarea name="message" type="text" placeholder="Message..." required  style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; height:200px; background-color: lightgray;"></textarea>
 </span>
   
-<p class="u-visually-hidden" style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; text-align:center; font-size: 17px; background-color: white;">
-  <label>Spam control <input name="bot-field" placeholder="Don’t fill this if you're human - Leave it blank" style="width: 100%; text-align: center;"></label>
+<p class="u-visually-hidden" style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; text-align:center; font-size: 17px; background-color: lightgray;">
+  <label>Spam control <input name="bot-field" placeholder="Don’t fill this if you're human - Leave it blank" style="width: 100%; text-align: center; background-color: gainsboro;
+    border-color: ghostwhite;"></label>
 </p>
 
-<p class="u-visually-hidden" style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; text-align:center; font-size: 13px; background-color: white;">
+<p class="u-visually-hidden" style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical; text-align:center; font-size: 13px; background-color: lightgray;">
   <label>I agree to share this information in accordance with the <a href="/privacy">privacy policy</a></label>
 <input name="gdpr" type="checkbox" required style="text-align: center;">
 </p>
