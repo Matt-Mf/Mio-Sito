@@ -174,18 +174,10 @@ div.header .name {
   font-size: 28px;
   font-family: 'Nexa Bold', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
-  {{ if isset .Site.Params "titlestyle" }}
-      {{ if in "capitalize uppercase lowercase none full-width" .Site.Params.titlestyle }}
-  text-transform: {{ .Site.Params.titlestyle }};
-      {{ else }}
-      {{ errorf "This titlestyle is not a valid text-transform css parameter: %s" .Site.Params.titlestyle }}
-      {{ end }}
-  {{ else }}
-
-  {{ end }}
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #333333;
+  text-shadow: 2px 2px darkgrey;
 }
 div.header nav {
   margin-bottom: 16px;
