@@ -7,7 +7,7 @@ _These are my work and personal projects._
 Web Design:
 
 * This website is custom built with HUGO, hosted on Netlify with Github source. 100≃ lighthouse score. 
-* Real Estate website - Wordpress CMS, custom theme and GDPR: <a href="https://www.zottacase.it">zottacase.it</a>
+* Real Estate website - Wordpress CMS, custom theme (PHP & CSS) and GDPR: <a href="https://www.zottacase.it">zottacase.it</a>
 * Business consultant personal website - Custom built with HUGO: studioabordi.it (Workin on...)
 
 Open-source software contribution:
