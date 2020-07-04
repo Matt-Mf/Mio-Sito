@@ -22,6 +22,8 @@ MEMBER **EFF** - Electronic Frontier Foundation
 
 I'm from 🇮🇹
 
+I'm not on Instagram nor Facebook, don't strive to find me.
+
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
 
 <a href="https://www.fumagalli-mf.vision/pgp-mf.asc">Here's</a> my public 2048 bit pgp key for sending me encrypted stuff.
