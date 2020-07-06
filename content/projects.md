@@ -9,9 +9,9 @@ Web Design:
 * This website is custom built with HUGO, hosted on Netlify with Github source. 100≃ lighthouse score. 
 * Real Estate website - Wordpress CMS, custom theme (PHP & CSS) and GDPR: <a href="https://www.zottacase.it">zottacase.it</a>
 * Business consultant personal website - Custom built with HUGO: studioabordi.it (Workin on...)
-
 * Small summer weather app - Node.js / Heroku : <a href="https://app-meteo-mf.herokuapp.com/">Link</a>
-* Standard-Notes open-source encrypted self-hosted instances.
+
+* Standardnotes open-source encrypted note taking app - self-hosted instances.
 
 Open-source software contribution:
 
