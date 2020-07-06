@@ -3,7 +3,7 @@ title = "Home"
 +++
 
 _Hi! I'm Matt. I study cybersecurity at UniMI in Milan while working as freelancer._  
-_My focuses are on IT-SEC, Networking, Systems administration & optimization._ <br> <br>  
+_My focuses are on IT-SEC, Networking, Systems administration & optimization._ <br>
 _Check on what i've worked in the projects section._
  
 {{< rawhtml >}}
@@ -63,7 +63,7 @@ _Check on what i've worked in the projects section._
 <body>
 
 <div class="container2">
-<img class="image2" src="img/workstations.png" alt="workstation">
+<img class="image2" src="img/workstations.jpg" alt="workstation">
   <div class="overlay2">
     <div class="text3">Thanks for visiting. <br> Here's where the magic happens.</div>
   </div>
