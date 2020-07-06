@@ -16,6 +16,7 @@ _Check on what i've worked in the projects section._
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
   
 }
 
@@ -48,7 +49,7 @@ _Check on what i've worked in the projects section._
 .text3 {
   white-space: nowrap; 
   color: white;
-  font-size: 95%;
+  font-size: 90%;
   font-family: Raleway;
   position: absolute;
   overflow: hidden;
@@ -65,7 +66,7 @@ _Check on what i've worked in the projects section._
 <div class="container2">
 <img class="image2" src="img/workstations.jpg" alt="workstation">
   <div class="overlay2">
-    <div class="text3">Thanks for visiting. <br> Here's where the magic happens.</div>
+    <div class="text3">Thanks for visiting. <br> Reach me out for a quote or job offer. </div>
   </div>
 </div>
 </body>
