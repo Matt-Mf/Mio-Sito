@@ -2,9 +2,9 @@
 title = "Home"
 +++
 
-_Hi! I'm Matt. I study cybersecurity at UniMI in Milan while working as freelancer.  
+_Hi! I'm Matt. I study cybersecurity at UniMI in Milan while working as freelancer._  
 _My focuses are on IT-SEC, Networking, Systems administration & optimization._ <br> <br>  
-<br>_Check on what i've worked in the projects section._
+_Check on what i've worked in the projects section._
  
 {{< rawhtml >}}
 <html>
