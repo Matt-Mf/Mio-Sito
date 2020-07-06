@@ -49,7 +49,7 @@ _Check on what i've worked in the projects section._
 .text3 {
   white-space: nowrap; 
   color: white;
-  font-size: 90%;
+  font-size: 80%;
   font-family: Raleway;
   position: absolute;
   overflow: hidden;
