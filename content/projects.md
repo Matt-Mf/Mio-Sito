@@ -16,7 +16,7 @@ Web Design:
 * SS1 - Archive of old vintage car commercials (Draft)
 
 * I have experience with Apache and NGINX Webserver on VPS or local. 
-* MySQL and MariaDB database, and XSS,CrossSiteX,SQL-injection mechanism.
+* MySQL and MariaDB database, and XSS, CrossSiteX, SQL-injection mechanism.
 
 * Standardnotes open-source encrypted note taking app - self-hosted instances.
 
