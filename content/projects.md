@@ -16,12 +16,6 @@ Web Design:
 * Self-hosted instances of Standardnotes. JawsDB + web-app.
 * SS1 - Archive of old vintage car commercials (Draft)
 
-* I have experience with Apache and NGINX Webserver on VPS or local. 
-* MySQL and MariaDB DBMS.
-* XSS, CrossSiteX, SQL-injection mechanism.
-
-
-
 -----------
 
 Open-source software contribution:
@@ -71,6 +65,9 @@ System Administration:
 * I have experience in malware, adware and ransomware mechanism of action and infected machine cleaning process.
 * Knowledge of Wireless protocol security, hacking, hardening and vulnerability exploits of AP. 
 * Knowledge of web-based tracking techniques and fingerprinting of an host, online privacy, analytics and telemetry spoofing.
+* I have experience with Apache and NGINX Webserver on VPS or local. 
+* MySQL and MariaDB DBMS.
+* XSS, CrossSiteX, SQL-injection mechanism.
 * I'm currently focusing on building experience with complex backup solutions like RAID configurations, Duplicati, Bacula, Timeshift.
 
 SysAdmin/ UNIX 
