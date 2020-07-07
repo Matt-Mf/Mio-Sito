@@ -13,7 +13,7 @@ Web Design:
 * Real Estate website - Wordpress CMS, custom theme (PHP & CSS) and GDPR: <a href="https://www.zottacase.it">zottacase.it</a>
 * Business consultant personal website - Custom built with HUGO: studioabordi.it (Workin on...)
 * Small summer weather app - Node.js / Heroku : <a href="https://app-meteo-mf.herokuapp.com/">Link</a>
-* Self-hosted instances of Standardnotes. JawsDB + web-app.
+* Self-hosted instances of Standard Notes. JawsDB + web-app.
 * SS1 - Archive of old vintage car commercials (Draft)
 
 -----------
