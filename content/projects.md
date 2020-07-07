@@ -26,7 +26,7 @@ Open-source software contribution:
 
 Networking:
 -----------
-* I personally use and have experience on Cisco RV series, Netgear, TP-link, Zyxel and Mikrotik appliances.
+* I personally use and have experience on Cisco RV series, Mikrotik, Netgear, TP-link, Zyxel, and Asus appliances.
 * I have experience on structured cabling of LAN and WAN solutions with BTNET series, rack and patch panel, last-mile twisted pair and GPON distribution.
 * Dynamic DNS and NAT Traversal VPN setup for remote smart-working with SoftEtherVPN.
 * Implementing AnyDesk remote solutions to private costumers. 
@@ -52,21 +52,25 @@ System Administration:
 * Knowledge of web-based tracking techniques and fingerprinting of an host, online privacy, analytics and telemetry spoofing.
 * I'm currently focusing on building experience with complex backup solutions like RAID configurations, Duplicati, Bacula, Timeshift.
 
-UNIX 
+-----------
+
+SysAdmin/ UNIX 
 -----------
 * I have GUI and CMD (Bash, Shell, Zsh) experience with RHEL, Fedora, Linux Mint, Debian, Ubuntu, Manjaro, Arch, and all the major and minor distribution based on linux.
 * I have experience with all the basic Linux/GNU tools and with these package managers: APT,DNF,YUM,PACMAN.
 * I have a limited knowledge of Apple OSX UNIX environment, IOS and Apple ecosystem.
 * I've played around on Busybox on some embedded devices.
-* On networking equipment I've used CISCO-IOS, ROUTER-OS, PfSENSE, Openwrt.
+* On networking equipment I've particular experience with CISCO/CISCO-IOS, MIKROTIK/ROUTER-OS, PfSENSE, dd-wrt/Openwrt, Asuswrt/Merlin.
 * Now I'm building experience with BSD and studying Android architecture.
 
-Windows
+SysAdmin/ Windows
 -----------
 * I have GUI and CMD/Powershell/WSL experience with all the major version of the Microsoft OS including LTSC/B.
 * I have experience with local administrative tools and licensing methods.
 * Tinkering with Chocolatey package manager.
 * I'm on the way to study and implement advances features like Active Directory, Microsoft 365, Image deployment, Clustering.
+
+-----------
 
 PC-x86 Hardware:
 -----------
