@@ -66,9 +66,9 @@ System Administration:
 * Knowledge of Wireless protocol security, hacking, hardening and vulnerability exploits of AP. 
 * Knowledge of web-based tracking techniques and fingerprinting of an host, online privacy, analytics and telemetry spoofing.
 * I have experience with Apache and NGINX Webserver on VPS or local. 
-* MySQL and MariaDB DBMS.
-* XSS, CrossSiteX, SQL-injection mechanism.
-* I'm currently focusing on building experience with complex backup solutions like RAID configurations, Duplicati, Bacula, Timeshift.
+* MySQL and MariaDB DBMS. XSS, CrossSiteX, SQL-injection mechanism.
+* Veeam backup solutions.
+* I'm currently focusing on building experience with enterprise data redundancy solutions, and advanced tools like Duplicati, Bacula, Timeshift also on RAID config.
 
 SysAdmin/ UNIX 
 -----------
@@ -84,7 +84,7 @@ SysAdmin/ Windows
 * I have GUI and CMD/Powershell/WSL experience with all the major version of the Microsoft OS including LTSC/B.
 * I have experience with local administrative tools and licensing methods.
 * Tinkering with Chocolatey package manager.
-* I'm on the way to study and implement advances features like Active Directory, Microsoft 365, Image deployment, Clustering.
+* I'm on the way to study and implement advances features like Active Directory, Microsoft 365 orchestration, Operations Manager.
 
 Firmware:
 -----------
@@ -108,9 +108,9 @@ Router modding:
 
 Android modding:
 -----------
-* Xiaomi Redmi Go - AOSP android with custom twrp recovery. Free from chinese software!
-* Amazon Fire HD 8 flashed with custom rom (LineageOS) twrp recovery, and root access (not enabled by default). Free from FireOS chains!
+* Xiaomi Redmi Go - AOSP android with twrp recovery. Free from chinese software!
+* Amazon Fire HD 8 flashed with custom rom (LineageOS) twrp recovery, and root access. Free from FireOS chains!
 * Android Debug Bridge (adb) tinkering to disable bloatware apps on most of Android devices.
 * Xperia Z2 fresh battery change and LineageX 1.0 with DooMKernel update.
-* Flashing of GrapheneOS on Pixel 3a.
+* Flashing of GrapheneOS on Google Pixel 3a.
 
