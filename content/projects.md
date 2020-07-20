@@ -103,7 +103,7 @@ PC-x86 Hardware:
 Router modding:
 -----------
 * Netgear DGND-3700 V2 mod to address overheating issues.
-* Netgear D7000 with custom firmware (Ancistrus) squeezing from a 1,2km 20-megabit adsl2+ line, over 15.700 D / 1050 U (Kbps) at 6db profile! Fast and Stable!
+* Netgear D7000 with custom firmware (Ancistrus).
 * TP-Link TD-W8970 with open-source firmware (OpenWrt).
 
 Android modding:
