@@ -29,6 +29,6 @@ title= "privacy"
 
 >WHAT ARE MY RIGHTS?
 >You can decide not to provide your email address in the contact form and to request the deletion of your data.
->You can exercise your rights by sending an email at privacymf[at]posteo.de
+>You can exercise your rights by contacting me.
 
->Latest update of this policy is 15/6/2020
+>Latest update of this policy is 22/6/2020
