@@ -64,7 +64,7 @@ _Check on what i've worked in the projects section._
 <body>
 
 <div class="container2">
-<img class="image2" src="img/workstations.jpg" alt="workstation">
+<img class="image2" src="img/koy.gif" alt="img">
   <div class="overlay2">
     <div class="text3"> Hello fellow visitor. <br> Feel free to reach out to me for a quote or job offer. </div>
   </div>
