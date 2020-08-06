@@ -2,6 +2,8 @@
 title = "About"
 +++
 
+Freelance - IT & TLC technician &#128295; 
+
 Undergraduate student at UniMI - Network and System security &#128274;
 
 Secondary School Diploma in IT - TLC specialization &#128225;
@@ -32,9 +34,9 @@ You can use also find me on Signal.
 
 In case of Quantum computers threat or high sensitive info, please use symmetric encryption standard (key size >= 128 bit) and **securely share the key with me.**
 
-Remember that email is on of the worst protocol for privacy and security. **Use end-to-end encrypted services when possible.**
+Remember that email is one of the worst protocol for privacy and security. **To preserve confidentiality of the conversation, use end-to-end encrypted services when possible.**
 
->Some on-the-fly utilities for this scope are: gpg4usb.org - hat.sh - cryptpad.fr - cryptomator.org
+>Some on-the-fly utilities for this scope are: signal messenger - gpg4usb.org - hat.sh - cryptpad.fr - cryptomator.org - Michael Kokoschka Crypto
 
 -------
 
