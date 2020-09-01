@@ -6,7 +6,7 @@ Freelance - IT & TLC technician &#128295;
 
 Undergraduate student at UniMI - Network and System security &#128274;
 
-Secondary School Diploma in IT - TLC specialization &#128225;
+Secondary School Diploma in IT at IIS G.Giorgi - TLC specialization &#128225;
 
 -------
 
@@ -14,7 +14,7 @@ Secondary School Diploma in IT - TLC specialization &#128225;
 
 CISCO **CERTIFIED** - IT Essentials & CCNA Module 1 & Intro to IOT and Cybersecurity.
 
-AUTODESK FUSION 360 - **CERTIFIED**
+AUTODESK FUSION 360 - CAD - **CERTIFIED**
 
 MEMBER **AEIT** - Associazione Italiana di Elettrotecnica, Elettronica, Automazione, Informatica e Telecomunicazioni.
 
@@ -28,7 +28,7 @@ I'm not on Instagram nor Facebook, don't strive to find me.
 
 For detailed CV, job proposals or any other inquiries feel free to contact me. 
 
-<a href="https://www.fumagalli-mf.vision/pgp-mf.asc">Here's</a> my public 2048 bit pgp key for sending me encrypted stuff.
+<a href="https://www.fumagalli-mf.vision/pgp-mf.asc">Here's</a> my public 2048 bit pgp key.
 
 You can use also find me on Signal.
 
@@ -36,7 +36,7 @@ In case of Quantum computers threat or high sensitive info, please use symmetric
 
 Remember that email is one of the worst protocol for privacy and security. **To preserve confidentiality of the conversation, use end-to-end encrypted services when possible.**
 
->Some on-the-fly utilities for this scope are: signal messenger - gpg4usb.org - hat.sh - cryptpad.fr - cryptomator.org - Michael Kokoschka Crypto
+>Some on-the-fly utilities for this scope are: **signal messenger** - **protonmail** - gpg4usb.org - hat.sh - cryptpad.fr - cryptomator.org - Michael Kokoschka Crypto - Mailvelope.
 
 -------
 
