@@ -62,6 +62,7 @@ SBC Server:
 * TV signal to Lan streaming receiver (Raspbian-TVheadEND): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
 * Privacy-respecting mobile Tor network proxy with backup battery on a Raspberry Pi 3b (a TorBox precursor): Was my high-school final-exam project.
 * I have basic experience of programming with Arduino board.
+
 -----------
 
 System Administration:
