@@ -44,7 +44,7 @@
         {{ end }}
 
         {{ if .Site.Params.email }}
-            <a href="mailto:">
+            <a href="mailto:{{ .Site.Params.email }}">
                 <img class="icon" src="{{ .Site.BaseURL }}img/email.svg" alt="email" />
             </a>
         {{ end }}
