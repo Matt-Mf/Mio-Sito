@@ -1,11 +1,9 @@
 ---
 author: "Me"
 date: 2020-09-14
-title: "Raccolta di guide tecniche - Impiantistica civile"
+title: "Raccolta di guide tecniche - Impiantistica Elettrica/TV-SAT civile "
 best: false
 ---
-
-_Raccolta di guide tecniche impiantistica civile_
 
 Elenco aggiornato al: 09-2020
 
@@ -34,7 +32,7 @@ _Approfondimenti_
 
 - ABB - Datacenter - Articolo di approfondimento - ENG: <a href="https://www.dropbox.com/s/u5ykjsi1f15e9g6/ABB%20-%20Datacenter%20review.pdf?dl=0">View</a>
 
-- ABB - Differenziale di tipo F - Articolo tecnico: <a href="">https://www.dropbox.com/s/qaisvdi1au6wfdm/ABB%20-%20Diff.%20tipo%20F.pdf?dl=0</a>
+- ABB - Differenziale di tipo F - Articolo tecnico: <a href="https://www.dropbox.com/s/qaisvdi1au6wfdm/ABB%20-%20Diff.%20tipo%20F.pdf?dl=0">View</a>
 
 - ABB - Guida tecnica impianto da 500 pag. - Datata: <a href="https://www.dropbox.com/s/i3nv3ahnpgnosro/ABB-Guida_tecnica-Impianto-500pg.pdf?dl=0">View</a>
 
