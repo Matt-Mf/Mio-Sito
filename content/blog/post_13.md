@@ -36,6 +36,7 @@ _Approfondimenti_
 
 - ABB - Guida tecnica impianto da 500 pag. - Datata: <a href="https://www.dropbox.com/s/i3nv3ahnpgnosro/ABB-Guida_tecnica-Impianto-500pg.pdf?dl=0">View</a>
 
+- Test norme CEI 64-8 - Formato PDF ufficiale da portale CEI (150€): <a href="https://my.ceinorme.it/index.html#detailsId=00M000182">View</a>
 
 _Impiantistica TV/SAT_
 ------------
