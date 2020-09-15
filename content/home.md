@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-_Hi! I'm Matt. I study cybersecurity at UniMI in Milan while working as freelancer._  
+_Hi! I'm Matt. I study cybersecurity at UniMI in Milan while working as freelancer sysadmin._  
 _My focuses are on IT-SEC, Networking, Systems administration & optimization._ <br> <br>
 _Check on what i've worked in the projects section._
  
@@ -22,7 +22,7 @@ _Check on what i've worked in the projects section._
 
 .image2 {
   display: block;
-  width: 100%;
+  width: 65%;
   height: auto;
   max-width: 100%;
   margin-left: auto;
@@ -30,15 +30,17 @@ _Check on what i've worked in the projects section._
 }
 
 .overlay2 {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  right: 0;
-  background-color: gray;
-  overflow: hidden;
-  width: 100%;
-  height: 0;
-  transition: .5s ease;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background-color: gray;
+    overflow: hidden;
+    width: 65%;
+    height: 0;
+    transition: .5s ease;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container2:hover .overlay2 {
