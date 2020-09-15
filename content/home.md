@@ -16,17 +16,16 @@ _Check on what i've worked in the projects section._
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
-  
 }
 
 .image2 {
-  display: block;
-  width: 65%;
-  height: auto;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    width: 65%;
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: inset 0 4px 5px 3px rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
 }
 
 .overlay2 {
