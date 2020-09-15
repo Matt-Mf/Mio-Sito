@@ -20,9 +20,9 @@ _Check on what i've worked in the projects section._
 
 .image2 {
     display: block;
-    width: 65%;
+    width: 65% !important;
     height: auto;
-    max-width: 65%;
+    max-width: 65% !important;
     margin-left: auto;
     margin-right: auto;
     box-shadow: inset 0 4px 5px 3px rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
