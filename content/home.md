@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-_Hi! I'm Matt. Currently I study cybersecurity at UniMI while working as freelancer._ 
+_Hi! I'm Matt. Currently I study cybersecurity at UniMI while working as freelancer._ <br> <br>
 _My focuses are on IT-SEC, Networking & TLC, Systems administration & optimization._ <br> <br>
 _Check on what I've worked in the projects section._
  
