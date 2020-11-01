@@ -228,7 +228,7 @@ div.footer .container {
   flex-direction: column-reverse;
   width: 100%;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 5px;
 }
 div.footer .container a {
   font-size: 14px;
@@ -417,7 +417,6 @@ div.main .container .content .see-more {
   font-style: italic;
   float: right;
   font-size: 0.9em;
-  margin-top: 2em;
   color: #313537;
 }
 div.main .container .content .see-more:hover {
