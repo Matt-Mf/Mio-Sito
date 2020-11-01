@@ -67,7 +67,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 <div class="container2">
 <img class="image2" src="img/DAkixWu.jpg" alt="img">
   <div class="overlay2">
-    <div class="text3"> Hello fellow visitor. <br> Feel free to contact me, or relax </div>
+    <div class="text3"> Hello fellow visitor. <br> Feel free to contact me.</div>
   </div>
 </div>
 </body>
