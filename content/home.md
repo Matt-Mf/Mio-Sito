@@ -50,7 +50,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 .text3 {
   white-space: nowrap; 
   color: white;
-  font-size: 70%;
+  font-size: 68%;
   font-family: Raleway;
   position: absolute;
   overflow: hidden;
