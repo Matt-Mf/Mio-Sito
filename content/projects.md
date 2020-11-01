@@ -25,7 +25,7 @@ Open-source software contribution:
 * Latest Fedora Linux distro beta-testing on different architecture. Yes, My favourite distro.
 * Investigating and compiling latest Security patched Ancistrus custom firmware for Netgear D7000v1 router. Project need new maintainer... Planning the assault!
 
-* Check out my Github for more. I'm still fa novice in software dev.
+* Check out my Github for more. I'm still a novice in software dev.
 
 -----------
 
@@ -34,6 +34,7 @@ Electronic:
 * Project, read, calculate, modify, test, analog and digital electronic schemes and logic circuits for TLC and signals processing & distribution, in low voltage. 
 * Tin welding for microreparations and hot-hair reflow components.
 * Smartphone, Tablet and embedded devices repairing, unlocking and testing.
+* Gaming console testing and repairing.
 
 -----------
 
@@ -61,7 +62,7 @@ SBC Server:
 * Pihole - V2: <a href="https://www.dropbox.com/s/n4hi4smvbfdod5t/2.jpg?dl=0">View</a>
 * TV signal to Lan streaming receiver (Raspbian-TVheadEND): <a href="https://www.dropbox.com/s/jqgjcahtn6vwgqy/3.jpg?dl=0">View</a>
 * Privacy-respecting mobile Tor network proxy with backup battery on a Raspberry Pi 3b (a TorBox precursor): Was my high-school final-exam project.
-* I have basic experience of programming with Arduino board.
+* I have experience with Arduino, Raspberry, and other prototyping boards.
 
 -----------
 
@@ -74,7 +75,7 @@ System Administration:
 * Knowledge of Wireless protocol security, hacking, hardening and vulnerability exploits of Wireless-AP. 
 * Knowledge of web-based tracking techniques, advertising and fingerprinting of an host, online privacy, analytics and telemetry spoofing.
 * I have experience with Apache and NGINX Webserver also on VPS.
-* MySQL and MariaDB DBMS. XSS, CrossSiteX, SQL-injection mechanism and prevention.
+* MySQL and MariaDB DBMS.
 
 * I'm currently focusing on building experience with enterprise data redundancy solutions, Veeam backup solutions and advanced tools like Duplicati, Bacula, Timeshift also on RAID config.
 
@@ -84,14 +85,14 @@ SysAdmin/ UNIX
 * I have experience with all the basic Linux/GNU tools and with these package managers: APT,DNF,YUM,PACMAN also building from source.
 * I have a limited knowledge of Apple OSX UNIX environment, IOS and Apple ecosystem.
 * I've played around on Busybox on some embedded devices.
-* On networking equipment I've particular experience with CISCO/CISCO-IOS, MIKROTIK/ROUTER-OS, PfSENSE, dd-wrt/Openwrt, Asuswrt/Merlin.
+* On networking equipment I've particular experience with CISCO-IOS, ROUTER-OS, PfSENSE, dd-wrt/Openwrt, Asuswrt/Merlin.
 
-* Now I'm building experience with BSD and studying Android architecture.
+* I'm building experience with BSD and studying Android architecture.
 
 SysAdmin/ Windows
 -----------
 * I have GUI and CMD/Powershell/WSL experience with all the major version of the Microsoft OS including LTSC/B.
-* I have experience with local administrative tools, advanced managements and licensing methods.
+* I have experience with local administrative tools and licensing methods.
 * Tinkering with Chocolatey package manager.
 
 * Building experience with Active Directory, Microsoft 365 orchestration, Operations Manager.
