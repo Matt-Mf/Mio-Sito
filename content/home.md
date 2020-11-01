@@ -15,7 +15,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 10px;
+  margin-bottom: 7px;
 }
 
 .image2 {
