@@ -305,7 +305,7 @@ div.main .content .page-heading {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #333333;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 div.main .content .front-matter .page-heading {
   margin-bottom: 0;
