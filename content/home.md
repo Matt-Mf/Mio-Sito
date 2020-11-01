@@ -65,7 +65,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 <body>
 
 <div class="container2">
-<img class="image2" src="img/koy.gif" alt="img">
+<img class="image2" src="img/DAkixWu.jpg" alt="img">
   <div class="overlay2">
     <div class="text3"> Hello fellow visitor. <br> This is my Koi pond of wisdom. <br> Feel free to contact me, or relax </div>
   </div>
@@ -75,5 +75,5 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
- 		<noscript> Looks like Javascript is disabled... Good! Stay safe online. </noscript>
+ 		<noscript> Looks like Javascript is off... Good! Stay safe online. </noscript>
 {{< /rawhtml >}}
