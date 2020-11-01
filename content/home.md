@@ -50,7 +50,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 .text3 {
   white-space: nowrap; 
   color: white;
-  font-size: 60%;
+  font-size: 70%;
   font-family: Raleway;
   position: absolute;
   overflow: hidden;
@@ -67,7 +67,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 <div class="container2">
 <img class="image2" src="img/DAkixWu.jpg" alt="img">
   <div class="overlay2">
-    <div class="text3"> Hello fellow visitor. <br> This is my Koi pond of wisdom. <br> Feel free to contact me, or relax </div>
+    <div class="text3"> Hello fellow visitor. <br> Feel free to contact me, or relax </div>
   </div>
 </div>
 </body>
