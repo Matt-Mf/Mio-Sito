@@ -20,9 +20,9 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
 
 .image2 {
     display: block;
-    width: 65% !important;
+    width: 42% !important;
     height: auto;
-    max-width: 65% !important;
+    max-width: 42% !important;
     margin-left: auto;
     margin-right: auto;
     box-shadow: inset 0 4px 5px 3px rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
@@ -35,7 +35,7 @@ _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
     right: 0;
     background-color: gray;
     overflow: hidden;
-    width: 65%;
+    width: 42%;
     height: 0;
     transition: .5s ease;
     margin-left: auto;
