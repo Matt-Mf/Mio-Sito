@@ -28,17 +28,19 @@ I'm from 🇮🇹
 
 I'm not on Instagram nor Facebook, don't strive to find me.
 
-For detailed CV, job proposals or any other inquiries feel free to contact me. 
+For detailed CV, job proposals or any other interesting inquiries, feel free to contact me. 
 
-<a href="https://www.fumagalli-mf.vision/pgp-mf.asc">Here's</a> my public 2048 bit pgp key.
+-------
 
-You can use also find me on Signal.
+<a href="https://www.fumagalli-mf.vision/pgp-mf.asc">Here's</a> my public 2048 bit PGP key.
 
 In case of Quantum computers threat or high sensitive info, please use symmetric encryption standard (key size >= 128 bit) and **securely share the key with me.**
 
-Remember that email is one of the worst protocol for privacy and security. **To preserve confidentiality of the conversation, use end-to-end encrypted services when possible.**
+Email in 21st century is one of the worst protocol for privacy and security. **To preserve confidentiality of the conversation, please use end-to-end encrypted services when possible.**
 
->Some on-the-fly utilities for this scope are: **Signal messenger** - **Protonmail** - **Telegram** - gpg4usb.org - hat.sh - cryptomator.org - Michael Kokoschka Crypto - Mailvelope.
+>Some simple on-the-fly utilities for this scope are: **Telegram** - **Signal messenger** - gpg4usb.org - hat.sh - cryptomator.org - Michael Kokoschka Crypto Android app.
+
+Want Top-class decentralized privacy? Glad you asked. I'm on the way to deploy my Snikket and Matrix server. Stay tuned.
 
 -------
 

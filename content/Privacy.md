@@ -5,12 +5,13 @@ title= "privacy"
 
 >THIS SITE DOESN'T COLLECT DATA THROUGH COOKIES OR ANALYTICS SERVICE.
 
->WHAT DATA DOES THIS WEBSITE COLLECT?
->Data relating to your identity, such as your full name and email address.
 >No third party service has access to users personal data.
 
+>WHAT DATA DOES THIS WEBSITE COLLECT?
+>Data relating to your identity, such as your full name and email address.
+
 >HOW IS MY DATA COLLECTED?
->Directly through the contact form when you communicate with me.
+>Through the contact form or other services, only when you directly communicate with me.
 
 >WHY IS MY DATA COLLECTED?
 >To reach in contact with me.
@@ -31,4 +32,4 @@ title= "privacy"
 >You can decide not to provide your email address in the contact form and to request the deletion of your data.
 >You can exercise your rights by contacting me.
 
->Latest update of this policy is 22/6/2020
+>Latest update of this policy is 5/11/2020
