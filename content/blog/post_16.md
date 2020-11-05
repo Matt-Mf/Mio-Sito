@@ -1,6 +1,6 @@
 ---
 author: "Me"
-date: 2020-11-5
+date: 2020-11-05
 title: "Reset commands for Windows network protocol and adapter"
 best: false
 ---
