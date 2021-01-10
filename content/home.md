@@ -3,7 +3,6 @@ title = "Home"
 +++
 
 _Hi! I'm Matt._ <br>
-_Currently I study cybersecurity at UniMI while working as freelancer._ <br>
 _My focuses are on Networking & TLC, IT-SEC, Systems administration._ <br>
  
 {{< rawhtml >}}
